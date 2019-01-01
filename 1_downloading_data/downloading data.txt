@@ -1,0 +1,298 @@
+mkdir ST000608
+cd ST000608
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000608.zip"
+unzip ST000608.zip
+mv ST000608 raw
+rm ST000608.zip
+wget -OAN000929.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000929/mwtab/txt
+wget -OAN000930.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000930/mwtab/txt
+wget -OAN000931.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000931/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000608/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000381
+cd ST000381
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000381.zip"
+unzip ST000381.zip
+mv ST000381 raw
+rm ST000381.zip
+wget -OAN000615.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000615/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000381/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000382
+cd ST000382
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000382.zip"
+unzip ST000382.zip
+mv ST000382 raw
+rm ST000382.zip
+wget -OAN000616.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000616/mwtab/txt
+wget -OAN000617.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000617/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000382/ --recursive
+rm -rf ./raw/*
+cd ..
+
+_____________________________________
+
+mkdir ST000392
+cd ST000392
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000392.zip"
+unzip ST000392.zip
+mv ST000392 raw
+rm ST000392.zip
+wget -OAN000628.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000628/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000392/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000383
+cd ST000383
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000383.zip"
+unzip ST000383.zip
+mv ST000383 raw
+rm ST000383.zip
+wget -OAN000618.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000618/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000383/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000405
+cd ST000405
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000405.zip"
+unzip ST000405.zip
+mv ST000405 raw
+rm ST000405.zip
+wget -OAN000645.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000645/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000405/ --recursive
+rm -rf ./raw/*
+cd ..
+
+___________________________________
+
+mkdir ST000397
+cd ST000397
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000397.7z"
+mkdir raw
+7z e ST000397.7z -o./raw
+wget -OAN000634.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000634/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000397/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000284
+cd ST000284
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000284.zip"
+unzip ST000284.zip
+mv ST000284 raw
+rm ST000284.zip
+wget -OAN000452.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000452/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000284/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000368
+cd ST000368
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000368.zip"
+unzip ST000368.zip
+mv ST000368 raw
+rm ST000368.zip
+wget -OAN000602.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000602/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000368/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000369
+cd ST000369
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000369.zip"
+unzip ST000369.zip
+mv ST000369 raw
+rm ST000369.zip
+wget -OAN000603.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000603/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000369/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000385
+cd ST000385
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000385.zip"
+unzip ST000385.zip
+mv ST000385 raw
+rm ST000385.zip
+wget -OAN000620.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000620/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000385/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000386
+cd ST000386
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000386.zip"
+unzip ST000386.zip
+mv ST000386 raw
+rm ST000386.zip
+wget -OAN000621.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000621/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000386/ --recursive
+rm -rf ./raw/*
+cd ..
+___________________________________
+
+mkdir ST000063
+cd ST000063
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000063.zip"
+unzip ST000063.zip
+mv ST000063 raw
+rm ST000063.zip
+wget -OAN000101.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000101/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000063/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000450
+cd ST000450
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000450.zip"
+unzip ST000450.zip
+mv ST000450 raw
+rm ST000450.zip
+wget -OAN000705.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000705/mwtab/txt
+wget -OAN000706.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000706/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000450/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000329
+cd ST000329
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000329.zip"
+unzip ST000329.zip
+mv ST000329 raw
+rm ST000329.zip
+wget -OAN000525.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000525/mwtab/txt
+wget -OAN000526.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000526/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000329/ --recursive
+rm -rf ./raw/*
+cd ..
+
+___________________________________
+
+mkdir ST000091
+cd ST000091
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000091.zip"
+unzip ST000091.zip
+mv ST000091 raw
+rm ST000091.zip
+wget -OAN000145.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000145/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000091/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000292
+cd ST000292
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000292.zip"
+unzip ST000292.zip
+mv ST000292 raw
+rm ST000292.zip
+wget -OAN000466.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000466/mwtab/txt
+wget -OAN000467.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000467/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000292/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000291
+cd ST000291
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000291.zip"
+unzip ST000291.zip
+mv ST000291 raw
+rm ST000291.zip
+wget -OAN000464.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000464/mwtab/txt
+wget -OAN000465.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000465/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000291/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000045
+cd ST000045
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000045.7z"
+mkdir raw
+7z e ST000045.7z -o./raw
+wget -OAN000072.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000072/mwtab/txt
+wget -OAN000073.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000073/mwtab/txt
+wget -OAN000074.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000074/mwtab/txt
+wget -OAN000075.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000075/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000045/ --recursive
+rm -rf ./raw/*
+cd ..
+___________________________________
+
+mkdir ST000355
+cd ST000355
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000355.zip"
+unzip ST000355.zip
+mv ST000355 raw
+rm ST000355.zip
+wget -OAN000580.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000580/mwtab/txt
+wget -OAN000581.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000581/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000355/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000356
+cd ST000356
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000356.zip"
+unzip ST000356.zip
+mv ST000356 raw
+rm ST000356.zip
+wget -OAN000582.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000582/mwtab/txt
+wget -OAN000583.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000583/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000356/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000306
+cd ST000306
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000306.zip"
+unzip ST000306.zip
+mv ST000306 raw
+rm ST000306.zip
+wget -OAN000485.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000485/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000306/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000396
+cd ST000396
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000396.7z"
+mkdir raw
+7z e ST000396.7z -o./raw
+wget -OAN000633.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN000633/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000396/ --recursive
+rm -rf ./raw/*
+cd ..
+
+__________________________________
+
+mkdir ST000726
+cd ST000726
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000726.zip"
+unzip ST000726.zip
+mv ST000726 raw
+rm ST000726.zip
+wget -OAN001138.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN001138/mwtab/txt
+wget -OAN001139.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN001139/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000726/ --recursive
+rm -rf ./raw/*
+cd ..
+
+mkdir ST000865
+cd ST000865
+lftp -c "pget -n20 ftp://www.metabolomicsworkbench.org/Studies/ST000865.zip"
+unzip ST000865.zip
+mv ST000865 raw
+rm ST000865.zip
+wget -OAN001390.txt http://www.metabolomicsworkbench.org/rest/study/analysis_id/AN001390/mwtab/txt
+aws s3 cp . s3://almlab.bucket/revo_healthcare/ST000865/ --recursive
+rm -rf ./raw/*
+cd ..
+
+
+___________________________________
+

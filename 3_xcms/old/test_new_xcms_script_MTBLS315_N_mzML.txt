@@ -1,0 +1,50 @@
+echo 'fnames' > N_mzML.txt
+ls -d $PWD/*_N.mzML >> N_mzML.txt
+cd ../mzML_N_full
+cp tmp_batch_index.txt ../data
+cd ../data
+mv tmp_batch_index.txt N_mzML_batch.txt
+R
+
+mz <- read.csv('~/data/downloading_data/MTBLS315/data/mzXML.txt', stringsAsFactor=FALSE)$fnames
+labels <- read.delim('mzXML_batch.txt', stringsAsFactor=FALSE)$inbatch
+data_raw <- readMSData(mz, mode="onDisk")
+cwfp <- CentWaveParam(snthresh = 10, ppm = 28.5, peakwidth = c(18.4,63.5), prefilter = c(5,1000), mzCenterFun = 'wMean', integrate = 1, mzdiff = 0.0045, fitgaus = FALSE, noise = 1000, verboseColumns = TRUE)
+data <- findChromPeaks(data_raw, param = cwfp)
+
+#made a file with all malaria samples:
+# fnames
+# 1001_N.mzML
+# ...
+# ...
+
+#read in:
+files = read.delim("malaria_files.txt", stringsAsFactor=FALSE)$fnames
+
+#now split
+mal_split <- filterFile(data, files)
+default <- registered()
+register(MulticoreParam(workers = 3, timeout = 10000000), default = TRUE)
+mal_split <- adjustRtime(mal_split, param = ObiwarpParam(binSize=0.913, distFun="cor_opt", gapInit=0.6876, gapExtend=2.55))
+density <- PeakDensityParam(sampleGroups = rep(1, length(fileNames(mal_split))), bw = 0.88, minFraction = 0.79, minSamples = 1, binSize = 0.0252	, maxFeatures = 50)
+filled <- groupChromPeaks(mal_split, param = density)
+
+xgF <- as(filled, "xcmsSet")
+write.csv(xgF@peaks, file='./allpeaksfile_all_mzXML.csv')
+write.csv(peakTable(xgF), file='./alignpeaksfile_all_mzXML.csv')
+
+xsa = xsAnnotate(xgF)
+xsaF = groupFWHM(xsa)
+nSamples = length(xgF@filepaths)
+xsaFI = findIsotopes(xsaF, ppm=5, mzabs = 0.01, minfrac = 1/nSamples)
+xsaC = groupCorr(xsaFI, cor_eic_th=0.75, pval=0.05, graphMethod="hcs", calcIso=TRUE, calcCiS=TRUE, calcCaS=FALSE)
+mode = 'positive'
+if (mode == 'negative'){
+  file = system.file("rules/primary_adducts_neg.csv", package="CAMERA")
+} else if (mode == 'positive'){
+  file = system.file('rules/primary_adducts_pos.csv', package='CAMERA')
+}
+rules = read.csv(file)
+an = findAdducts(xsaC, polarity=mode, rules=rules, ppm=5)
+rm(xsa,xsaF,xsaFI,xsaC)
+write.csv(getPeaklist(an), file='./alignpeaksfile_all_mzXML.csv') 
