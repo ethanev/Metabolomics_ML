@@ -1,0 +1,40 @@
+Lung Cancer,1005,MTBLS28
+Lung Cancer,166,ST000385
+Lung Cancer,94,ST000388
+Lung Cancer,82,ST000392
+Lung Cancer,299,ST000396
+Breast Cancer,447,MTBLS92
+Hepatocellular Carcinoma,84,ST000865
+Hepatocellular Carcinoma,89,MTBLS105
+Hepatocellular Carcinoma,262,MTBLS17
+Hepatocellular Carcinoma,90,MTBLS19
+Diabetes - healthy v. T2 v. prediabetic,288,MTBLS352
+Diabetes - T1,21,ST000045
+Interstitial cystitis/painful bladder syndrome,92,ST000381
+Alzheimer's,127,MTBLS72
+Alzheimer's,45,ST000046
+"Minimal change disease, focal segmental sclerosis",30,ST000329
+Coronary heart disease,102,Feng
+Pneumonia ,239,MTBLS354
+Smoking,108,MTBLS364
+Malaria ,234,ST000578
+Scleroderma PAH,218,ST000763
+Psoriasis,90,MTBLS408
+Fevers (non-malarial),61,MTBLS315
+Depression,94,ST000063
+Age related metabolomics,30,MTBLS266
+,,
+Breast Cancer,58,ST000918
+Colorectal Cancer,224,ST000284
+"Breast Cancer, Gastric Cancer, Colorectal Cancer",211,ST000355
+"Breast Cancer, Gastric Cancer, Colorectal Cancer",134,ST000356
+Diabetic men,20,ST000608
+Obesity - Non-diabetic and T2 diabetic,56,ST000383
+Typhoid carriage,37,MTBLS579
+Chronic fatigue,84,ST000450
+Lyme disease,392,ST000888
+Chronic hepatitis B,86,MTBLS253
+COPD,155,MTBLS358
+,,
+,,
+,162.6111111,

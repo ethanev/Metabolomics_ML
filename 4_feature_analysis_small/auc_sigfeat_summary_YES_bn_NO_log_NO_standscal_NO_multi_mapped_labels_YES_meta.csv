@@ -1,0 +1,243 @@
+,analysis,auc,auc_std,case,control,disease,disease_type,features,label,model_nonzero_coef,number_labels,samples,significant,study,test_size,train_size,Instrument_category,Instument,column,mode,type
+0,plasmaall_author,0.9966666666666667,0.004714045207910321,59,43,coronary heart disease,cardiovascular,109,a0,19,2,102,108,Feng,33,69,LC,LTQ orbitrap,C18,positive,plasma
+1,urineall_author,0.9903508771929825,0.008876922680914726,59,43,coronary heart disease,cardiovascular,160,a1,160,2,102,160,Feng,33,69,LC,LTQ orbitrap,C18,positive,urine
+2,serum_IPO_aligned_Feng_serum_batch1,1.0,0.0,21,20,coronary heart disease,cardiovascular,5529,a2,222,2,41,1587,Feng,13,28,LC,LTQ orbitrap,C18,positive,plasma
+3,serum_IPO_aligned_Feng_serum_batch2,1.0,0.0,38,23,coronary heart disease,cardiovascular,4939,a3,51,2,61,1110,Feng,19,42,LC,LTQ orbitrap,C18,positive,plasma
+4,urine_IPO_aligned_Feng_urine_batch1,1.0,0.0,28,21,coronary heart disease,cardiovascular,11102,a4,50,2,49,1440,Feng,16,33,LC,LTQ orbitrap,C18,positive,urine
+5,urine_IPO_aligned_Feng_urine_batch2,0.9714285714285714,0.04040610178208844,31,22,coronary heart disease,cardiovascular,11884,a5,69,2,53,2128,Feng,17,36,LC,LTQ orbitrap,C18,positive,urine
+6,serum_onebatch_IPO_align_Feng_serum_all,0.9988095238095238,0.0016835875742536785,59,43,coronary heart disease,cardiovascular,5040,a6,40,2,102,1523,Feng,33,69,LC,LTQ orbitrap,C18,positive,plasma
+7,urine_onebatch_IPO_aligned_Feng_urine_all,0.9761904761904763,0.033671751485073675,59,43,coronary heart disease,cardiovascular,11934,a7,257,2,102,2564,Feng,33,69,LC,LTQ orbitrap,C18,positive,urine
+8,IPO_aligned_MTBLS105_qMS,0.6620609782374488,0.11815379513928972,40,49,Hepatocellular carcinoma,cancer,1176,b0,1175,2,89,0,MTBLS105,29,60,GC,Agilent 5975C MSD,Phenyl Arylene,positive,plasma
+9,IPO_aligned_MTBLS105_SIM-MS,0.8646304675716441,0.06404542302834211,40,49,Hepatocellular carcinoma,cancer,855,b1,33,2,89,7,MTBLS105,29,60,GC,Agilent 5975C MSD,Phenyl Arylene,positive,plasma
+10,IPO_aligned_MTBLS17_neg_exp1,0.6822317421460627,0.01679472859963529,59,129,hepatocellular carcinoma,cancer,12445,c0,394,2,188,615,MTBLS17,62,126,LC,Waters Q-Tof Premier,C18,negative,serum
+11,IPO_aligned_MTBLS17_neg_exp2,0.5525735294117647,0.1693803905282478,13,50,hepatocellular carcinoma,cancer,15547,c1,489,2,63,0,MTBLS17,20,43,LC,Waters Q-Tof Premier,C18,negative,serum
+12,IPO_aligned_MTBLS17_neg_exp3,0.75,0.2041241452319315,5,5,hepatocellular carcinoma,cancer,422,c2,4,2,10,0,MTBLS17,2,8,LC,Waters Q-Tof Premier,C18,negative,serum
+13,IPO_aligned_MTBLS17_pos_exp1,0.7152590779273765,0.06637075538701775,59,129,hepatocellular carcinoma,cancer,17998,c3,13606,2,188,107,MTBLS17,62,126,LC,Waters Q-Tof Premier,C18,positive,serum
+14,IPO_aligned_MTBLS17_pos_exp2,0.6974877450980393,0.03713548731351592,13,50,hepatocellular carcinoma,cancer,33205,c4,1340,2,63,0,MTBLS17,20,43,LC,Waters Q-Tof Premier,C18,positive,serum
+15,IPO_aligned_MTBLS17_pos_exp3,1.0,0.0,5,5,hepatocellular carcinoma,cancer,4299,c5,737,2,10,0,MTBLS17,2,8,LC,Waters Q-Tof Premier,C18,positive,serum
+16,IPO_aligned_MTBLS17_neg_onebatch,0.6850072543356521,0.04615043420141432,77,184,hepatocellular carcinoma,cancer,13652,c6,607,2,261,560,MTBLS17,86,175,LC,Waters Q-Tof Premier,C18,negative,serum
+17,IPO_aligned_MTBLS17_pos_onebatch,0.6861533037736104,0.037262034193161465,77,184,hepatocellular carcinoma,cancer,20768,c7,9299,2,261,191,MTBLS17,86,175,LC,Waters Q-Tof Premier,C18,positive,serum
+18,Peaklist_EXP1_POS,0.6940636474908201,0.047445556081083716,59,129,hepatocellular carcinoma,cancer,1586,c8,1585,2,188,45,MTBLS17,62,126,LC,Waters Q-Tof Premier,C18,positive,serum
+19,Peaklist_EXP2_POS,0.5987745098039216,0.07420360846629667,13,50,hepatocellular carcinoma,cancer,3230,c9,3045,2,63,0,MTBLS17,20,43,LC,Waters Q-Tof Premier,C18,positive,serum
+20,Peaklist_EXP3_POS,0.75,0.3535533905932738,5,5,hepatocellular carcinoma,cancer,612,c10,101,2,10,0,MTBLS17,2,8,LC,Waters Q-Tof Premier,C18,positive,serum
+21,Peaklist_EXP1_NEG,0.6549163606691147,0.04127438036142253,59,129,hepatocellular carcinoma,cancer,941,c11,934,2,188,159,MTBLS17,62,126,LC,Waters Q-Tof Premier,C18,negative,serum
+22,Peaklist_EXP2_NEG,0.514093137254902,0.14175748920556888,13,50,hepatocellular carcinoma,cancer,1209,c12,6,2,63,0,MTBLS17,20,43,LC,Waters Q-Tof Premier,C18,negative,serum
+23,Peaklist_EXP3_NEG,0.9166666666666666,0.11785113019775792,5,5,hepatocellular carcinoma,cancer,391,c13,92,2,10,0,MTBLS17,2,8,LC,Waters Q-Tof Premier,C18,negative,serum
+24,Exp1F_POS,0.7179232804232805,0.08379788838517119,20,25,hepatocellular carcinoma,cancer,1526,d0,18,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+25,Exp1R_POS,0.7099867724867724,0.07733995884265811,20,25,hepatocellular carcinoma,cancer,1461,d1,1407,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+26,Exp2F_POS,0.7427248677248678,0.06407498066022684,20,25,hepatocellular carcinoma,cancer,1542,d2,630,2,45,12,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+27,Exp2R_POS,0.6498015873015873,0.1222373599160014,20,25,hepatocellular carcinoma,cancer,1455,d3,1418,2,45,0,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+28,Exp1F_NEG,0.8544973544973544,0.08058476373372661,20,25,hepatocellular carcinoma,cancer,883,d4,869,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+29,Exp1R_NEG,0.7536375661375662,0.10425114152614452,20,25,hepatocellular carcinoma,cancer,827,d5,69,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+30,Exp2F_NEG,0.7037037037037037,0.13698940460403836,20,25,hepatocellular carcinoma,cancer,825,d6,752,2,45,15,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+31,Exp2R_NEG,0.7837301587301587,0.024940089464239167,20,25,hepatocellular carcinoma,cancer,760,d7,755,2,45,0,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+32,IPO_aligned_MTBLS19_neg_exp1_F,0.7414021164021163,0.033762563539947735,20,25,hepatocellular carcinoma,cancer,4843,d8,2108,2,45,5,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+33,IPO_aligned_MTBLS19_neg_exp1_R,0.6524470899470899,0.10890529831724309,20,25,hepatocellular carcinoma,cancer,4843,d9,221,2,45,3,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+34,IPO_aligned_MTBLS19_neg_exp2_F,0.8015873015873015,0.15592764051101984,20,25,hepatocellular carcinoma,cancer,4414,d10,920,2,45,0,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+35,IPO_aligned_MTBLS19_neg_exp2_R,0.6964285714285715,0.14797384398400068,20,25,hepatocellular carcinoma,cancer,4414,d11,188,2,45,1,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,negative,serum
+36,IPO_aligned_MTBLS19_pos_exp1_F,0.7668650793650794,0.11910547535910773,20,25,hepatocellular carcinoma,cancer,7931,d12,405,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+37,IPO_aligned_MTBLS19_pos_exp1_R,0.7490079365079364,0.13456272555987897,20,25,hepatocellular carcinoma,cancer,7931,d13,1056,2,45,1,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+38,IPO_aligned_MTBLS19_pos_exp2_F,0.7867063492063492,0.11435011137633976,20,25,hepatocellular carcinoma,cancer,8753,d14,465,2,45,18,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+39,IPO_aligned_MTBLS19_pos_exp2_R,0.8422619047619048,0.11852564137940402,20,25,hepatocellular carcinoma,cancer,8753,d15,1712,2,45,2,MTBLS19,14,31,LC,Waters Q-Tof Premier,C18,positive,serum
+40,IPO_aligned_MTBLS19_neg_all_F_R,0.803153953889248,0.025972395934203144,40,50,hepatocellular carcinoma,cancer,5163,d16,483,2,90,287,MTBLS19,29,61,LC,Waters Q-Tof Premier,C18,negative,serum
+41,IPO_aligned_MTBLS19_neg_all_R_R,0.7556022408963585,0.05493021291696358,40,50,hepatocellular carcinoma,cancer,5163,d17,157,2,90,162,MTBLS19,29,61,LC,Waters Q-Tof Premier,C18,negative,serum
+42,IPO_aligned_MTBLS19_pos_all_F_R,0.7888116785175608,0.07814754485147232,40,50,hepatocellular carcinoma,cancer,8623,d18,52,2,90,300,MTBLS19,29,61,LC,Waters Q-Tof Premier,C18,negative,serum
+43,IPO_aligned_MTBLS19_pos_all_R_R,0.7630090497737556,0.1536318210217467,40,50,hepatocellular carcinoma,cancer,8623,d19,201,2,90,161,MTBLS19,29,61,LC,Waters Q-Tof Premier,C18,negative,serum
+44,m_oxylipin_chronic_hep_b,0.7739506869941652,0.09898440468460099,67,19,chronic hepatitis B,infectious,35,e0,2,2,86,1,MTBLS253,28,58,LC,Agilent 6460 Triple Quadrupole,C18,negative,serum
+45,m_mtbls266_NEG_mass_spectrometry_v2_maf,0.9066666666666667,0.06798692684790376,15,15,Age related metabolomics,other,55,f0,50,2,30,0,MTBLS266,10,20,LC,LTQ Orbitrap,HILIC,negative,plasma
+46,m_mtbls266_POS_mass_spectrometry_v2_maf,0.9466666666666667,0.07542472332656502,15,15,Age related metabolomics,other,81,f1,9,2,30,4,MTBLS266,10,20,LC,LTQ Orbitrap,HILIC,positive,plasma
+47,IPO_aligned_MTBLS266_neg,0.9333333333333335,0.06798692684790376,15,15,Age related metabolomics,other,15961,f2,903,2,30,181,MTBLS266,10,20,LC,LTQ Orbitrap,HILIC,negative,plasma
+48,IPO_aligned_MTBLS266_pos,0.88,0.14236104336041752,15,15,Age related metabolomics,other,21030,f3,113,2,30,2,MTBLS266,10,20,LC,LTQ Orbitrap,HILIC,positive,plasma
+49,m_chronic_hep_b_POS,0.883712905452036,0.03302189091862042,69,19,chronic hepatitis B,infectious,140,g0,6,2,88,40,MTBLS279,29,59,LC,Waters ACQUITY UPLC system,C18,positive,serum
+50,m_chronic_hep_b_NEG,0.9516908212560388,0.02977977779212065,69,19,chronic hepatitis B,infectious,59,g1,18,2,88,26,MTBLS279,29,59,LC,Waters ACQUITY UPLC system,C18,negative,serum
+51,m_mtbls28_NEG_v2_maf,0.8291452767796711,0.012794716684126657,469,536,Lung cancer,cancer,1359,h0,568,2,1005,666,MTBLS28,334,671,LC,Waters Xevo Q-Tof Premier,C18,negative,urine
+52,m_mtbls28_POS_v2_maf,0.867826603242461,0.00121898765018681,469,536,Lung cancer,cancer,1807,h1,190,2,1005,921,MTBLS28,334,671,LC,Waters Xevo Q-Tof Premier,C18,positive,urine
+53,IPO_aligned_MTBLS28_neg,0.8235338632815091,0.007665163357028171,469,536,Lung cancer,cancer,4349,h2,4348,2,1005,1259,MTBLS28,334,671,LC,Waters Xevo Q-Tof Premier,C18,negative,urine
+54,IPO_aligned_MTBLS28_pos,0.8552852797544875,0.008207805358077292,469,536,Lung cancer,cancer,5559,h3,2361,2,1005,2105,MTBLS28,334,671,LC,Waters Xevo Q-Tof Premier,C18,positive,urine
+55,m_GC_nmfi_and_bsi_diagnosis_v2_maf,0.6795735129068463,0.08507191527668337,34,27,non-malaria febrile illness,infectious,146,i0,142,2,61,0,MTBLS315,20,41,GC,Agilent 6890N GC,5% phenyl-methyl silica,positive,plasma
+56,m_LC_nmfi_and_bsi_diagnosis_v2_maf,0.9259259259259259,0.03333163278320421,34,27,non-malaria febrile illness,infectious,8207,i1,224,2,61,0,MTBLS315,20,41,LC,Agilent 6550 iFunnel Q-TOF,C8,positive,plasma
+57,m_UPLC_NEG_nmfi_and_bsi_diagnosis_v2_maf,0.8529741863075196,0.03712196500233722,34,27,non-malaria febrile illness,infectious,12385,i2,1613,2,61,474,MTBLS315,20,41,LC,LTQ Orbitrap,C18,negative,plasma
+58,m_UPLC_POS_nmfi_and_bsi_diagnosis_v2_maf,0.7783389450056116,0.10262765203352822,34,27,non-malaria febrile illness,infectious,7617,i3,3570,2,61,624,MTBLS315,20,41,LC,LTQ Orbitrap,C18,positive,plasma
+59,IPO_aligned_MTBLS315_mzData,0.5555555555555556,0.07856742013183865,34,27,non-malaria febrile illness,infectious,2804,i4,0,2,61,0,MTBLS315,20,41,GC,Agilent 6890N GC,5% phenyl-methyl silica,positive,plasma
+60,IPO_aligned_MTBLS315_mzXML,0.8773849607182941,0.07761269391537512,34,27,non-malaria febrile illness,infectious,8795,i5,595,2,61,24,MTBLS315,20,41,LC,Agilent 6550 iFunnel Q-TOF,C8,positive,plasma
+61,IPO_aligned_MTBLS315_n_mzML,0.9169472502805837,0.034810465587588865,34,27,non-malaria febrile illness,infectious,22913,i6,862,2,61,50,MTBLS315,20,41,LC,LTQ Orbitrap,C18,negative,plasma
+62,IPO_aligned_MTBLS315_p_mzML,0.9175084175084175,0.034583566640023815,34,27,non-malaria febrile illness,infectious,25234,i7,940,2,61,69,MTBLS315,20,41,LC,LTQ Orbitrap,C18,positive,plasma
+63,DEMO_neg-norm-metaboAnalystInput_0_NGT,0.6027255460588794,0.05565992258442536,80,150,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j0,72,2,230,1,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+64,DEMO_neg-norm-metaboAnalystInput_2_Pre-DM,0.5683106575963719,0.06135950301878764,63,167,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j1,0,2,230,3,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+65,DEMO_neg-norm-metaboAnalystInput_1_T2D,0.661197216108258,0.04489204232140938,87,143,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j2,18,2,230,4,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+66,DEMO_pos-norm-metaboAnalystInput_0_NGT,0.6413010446343779,0.023385695691422147,80,150,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j3,13,2,230,5,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
+67,DEMO_pos-norm-metaboAnalystInput_2_Pre-DM,0.5170377241805812,0.04346684014634776,63,167,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j4,4,2,230,0,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
+68,DEMO_pos-norm-metaboAnalystInput_1_T2D,0.6679047444362926,0.02138100970222579,87,143,Diabetes - healthy v. T2 v. prediabetic,metabolic,100,j5,66,2,230,5,MTBLS352,76,154,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
+69,IPO_aligned_MTBLS352_neg_0_NGT,0.7278013267596601,0.014664486979842005,98,190,Diabetes - healthy v. T2 v. prediabetic,metabolic,2724,j6,1135,2,288,3,MTBLS352,95,193,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+70,IPO_aligned_MTBLS352_neg_2_Pre-DM,0.5804029304029305,0.03919841817044961,78,210,Diabetes - healthy v. T2 v. prediabetic,metabolic,2724,j7,732,2,288,0,MTBLS352,96,192,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+71,IPO_aligned_MTBLS352_neg_1_T2D,0.7810088072630753,0.0836544247349628,112,176,Diabetes - healthy v. T2 v. prediabetic,metabolic,2724,j8,1074,2,288,7,MTBLS352,95,193,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+72,m_cap_metabolite_profiling_mass_spectrometry_v2_maf,0.9485166380113187,0.01447628977078852,142,97,Pneumonia - Community acquired,infectious,7,k0,7,2,239,7,MTBLS354,79,160,LC,Agilent 6540 Q-TOF,C18,positive,plasma
+73,m_cap_metabolite_profiling_mass_spectrometry-1_v2_maf,0.8584784010315926,0.04089804397812564,142,97,Pneumonia - Community acquired,infectious,5,k1,5,2,239,5,MTBLS354,79,160,LC,Agilent 6540 Q-TOF,C18,negative,plasma
+74,IPO_aligned_MTBLS354_neg,0.9932659932659934,0.009523323652344031,142,97,Pneumonia - Community acquired,infectious,12041,k2,1017,2,239,5751,MTBLS354,79,160,LC,Agilent 6540 Q-TOF,C18,negative,plasma
+75,IPO_aligned_MTBLS354_pos,0.9902482269503546,0.013791089703992962,142,97,Pneumonia - Community acquired,infectious,24213,k3,209,2,239,12581,MTBLS354,79,160,LC,Agilent 6540 Q-TOF,C18,positive,plasma
+76,m_CER_mass_spectrometry_v4_3_CS,0.5,0.0,39,116,COPD,respiratory,56,l0,0,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,positive,serum
+77,m_CER_mass_spectrometry_v4_0_NS,0.5657981245025779,0.11258474813363224,39,116,COPD,respiratory,56,l1,8,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,positive,serum
+78,m_CER_mass_spectrometry_v4_2_FS,0.48706991014683315,0.02114183709258423,38,117,COPD,respiratory,56,l2,4,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,positive,serum
+79,m_CER_mass_spectrometry_v4_1_COPD,0.4679054638568809,0.08183556391916967,39,116,COPD,respiratory,56,l3,56,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,positive,serum
+80,m_EICO_mass_spectrometry_v4_3_CS,0.6048998235233053,0.016480170004380467,39,116,COPD,respiratory,17,l4,16,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,negative,serum
+81,m_EICO_mass_spectrometry_v4_0_NS,0.6894183189729749,0.09526158320533866,39,116,COPD,respiratory,17,l5,17,2,155,2,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,negative,serum
+82,m_EICO_mass_spectrometry_v4_2_FS,0.685294762217839,0.07515674512999142,38,117,COPD,respiratory,17,l6,3,2,155,4,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,negative,serum
+83,m_EICO_mass_spectrometry_v4_1_COPD,0.7382781411121492,0.05395392177985357,39,116,COPD,respiratory,17,l7,17,2,155,2,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,C18,negative,serum
+84,m_SHOT_mass_spectrometry_v4_3_CS,0.579639433890446,0.05652960781122678,39,116,COPD,respiratory,123,l8,54,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
+85,m_SHOT_mass_spectrometry_v4_0_NS,0.5732724315720268,0.11368625209016518,39,116,COPD,respiratory,123,l9,46,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
+86,m_SHOT_mass_spectrometry_v4_2_FS,0.48843962305500765,0.034336885928278466,38,117,COPD,respiratory,123,l10,123,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
+87,m_SHOT_mass_spectrometry_v4_1_COPD,0.6102114260008996,0.04463629809494581,39,116,COPD,respiratory,123,l11,56,2,155,6,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
+88,m_TAG_mass_spectrometry_v4_3_CS,0.48012041939167444,0.0731078157415748,39,116,COPD,respiratory,23,l12,9,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,unknown,positive,serum
+89,m_TAG_mass_spectrometry_v4_0_NS,0.6219246340703831,0.01222401960183005,39,116,COPD,respiratory,23,l13,11,2,155,1,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,unknown,positive,serum
+90,m_TAG_mass_spectrometry_v4_2_FS,0.48022134560596097,0.05268633061172973,38,117,COPD,respiratory,23,l14,18,2,155,0,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,unknown,positive,serum
+91,m_TAG_mass_spectrometry_v4_1_COPD,0.6110419045641718,0.03798154192765367,39,116,COPD,respiratory,23,l15,23,2,155,2,MTBLS358,51,104,LC,AB SCIEX QTRAP 5500,unknown,positive,serum
+92,IPO_aligned_MTBLS364_hil_neg,0.9950120399036808,0.004927292787493499,53,55,smoker v. nonsmoker,other,5951,m0,276,2,108,3869,MTBLS364,35,73,LC,Waters Xevo G2 QTof,HILIC,negative,serum
+93,IPO_aligned_MTBLS364_hil_pos,1.0,0.0,53,55,smoker v. nonsmoker,other,17212,m1,137,2,108,10812,MTBLS364,35,73,LC,Waters Xevo G2 QTof,HILIC,positive,serum
+94,IPO_aligned_MTBLS364_lip_neg,0.9873294346978557,0.017918885293226338,53,55,smoker v. nonsmoker,other,761,m2,49,2,108,473,MTBLS364,35,73,LC,Waters Xevo G2 QTof,C18,negative,serum
+95,IPO_aligned_MTBLS364_lip_pos,0.9967320261437909,0.0046216129489316665,53,55,smoker v. nonsmoker,other,6168,m3,702,2,108,3688,MTBLS364,35,73,LC,Waters Xevo G2 QTof,C18,positive,serum
+96,IPO_aligned_MTBLS408_neg,0.9511111111111111,0.031635787413426084,45,45,psoriasis,autoimmune,2015,n0,199,2,90,305,MTBLS408,30,60,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
+97,IPO_aligned_MTBLS408_pos,0.9422222222222224,0.05041392452495869,45,45,psoriasis,autoimmune,3106,n1,83,2,90,303,MTBLS408,30,60,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
+98,m_typhoid_carriage_metabolite_profiling_mass_spectrometry_v2_maf,0.9888888888888889,0.01571348402636772,17,20,typhoid carriage,infectious,198,o0,154,2,37,23,MTBLS579,11,26,GC,LECO pegasus 4d,50% Phenyl Polysilphenylene-siloxane,positive,plasma
+99,IPO_aligned_MTBLS72_neg,0.7907108721624851,0.11022195812638198,36,91,Alzheimers,neurological,6417,p0,2979,2,127,2,MTBLS72,42,85,LC,Waters Xevo G2 QTof,C18,negative,plasma
+100,IPO_aligned_MTBLS72_pos,0.7868279569892472,0.021249599009136613,36,91,Alzheimers,neurological,4529,p1,789,2,127,1,MTBLS72,42,85,LC,Waters Xevo G2 QTof,C18,positive,plasma
+101,IPO_aligned_MTBLS92,0.9366151866151867,0.00483563010462967,111,336,Breast Cancer,cancer,5875,q0,5853,2,447,1130,MTBLS92,149,298,LC,Q-Tof Premier (Waters),C18,positive,serum
+102,Author_data,0.861969111969112,0.032152300528609366,111,336,Breast Cancer,cancer,240,q1,240,2,447,151,MTBLS92,149,298,LC,Q-Tof Premier (Waters),C18,positive,serum
+103,02Feb10-21-r0_1_II,0.3333333333333333,0.23570226039551584,7,14,t1 diabetes,metabolic,18220,r0,0,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+104,02Feb10-21-r0_0_ND,0.43333333333333335,0.047140452079103175,7,14,t1 diabetes,metabolic,18220,r1,0,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+105,02Feb10-21-r0_2_IW,0.7111111111111111,0.2793290019994786,7,14,t1 diabetes,metabolic,18220,r2,764,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+106,11Feb10-21-r0_1_II,0.39999999999999997,0.14142135623730953,7,14,t1 diabetes,metabolic,1910,r3,1435,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+107,11Feb10-21-r0_0_ND,0.5666666666666667,0.04714045207910316,7,14,t1 diabetes,metabolic,1910,r4,842,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+108,11Feb10-21-r0_2_IW,0.8916666666666666,0.08249579113843053,7,14,t1 diabetes,metabolic,1910,r5,1406,2,21,10,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+109,11March10-21-r0_1_II,0.5333333333333333,0.04714045207910316,7,14,t1 diabetes,metabolic,31334,r6,0,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+110,11March10-21-r0_0_ND,0.325,0.16708281379802853,7,14,t1 diabetes,metabolic,31334,r7,4,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+111,11March10-21-r0_2_IW,0.7999999999999999,0.28284271247461906,7,14,t1 diabetes,metabolic,31334,r8,4802,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+112,17March10-21-r0_1_II,0.16666666666666666,0.23570226039551584,7,14,t1 diabetes,metabolic,21031,r9,2383,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+113,17March10-21-r0_0_ND,0.1111111111111111,0.15713484026367722,7,14,t1 diabetes,metabolic,21031,r10,2400,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+114,17March10-21-r0_2_IW,0.4444444444444444,0.3189488909868294,7,14,t1 diabetes,metabolic,21031,r11,4308,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+115,IPO_aligned_ST000045_2feb_pos_1_II,0.48888888888888893,0.01571348402636772,7,14,t1 diabetes,metabolic,19257,r12,4504,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+116,IPO_aligned_ST000045_2feb_pos_0_ND,0.325,0.16708281379802853,7,14,t1 diabetes,metabolic,19257,r13,2570,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+117,IPO_aligned_ST000045_2feb_pos_2_IW,0.9166666666666666,0.11785113019775792,7,14,t1 diabetes,metabolic,19257,r14,7,2,21,638,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,positive,plasma
+118,IPO_aligned_ST000045_11feb_neg_1_II,0.6638888888888889,0.030681558381075707,7,14,t1 diabetes,metabolic,3255,r15,1276,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+119,IPO_aligned_ST000045_11feb_neg_0_ND,0.4444444444444444,0.07856742013183865,7,14,t1 diabetes,metabolic,3255,r16,1284,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+120,IPO_aligned_ST000045_11feb_neg_2_IW,0.9555555555555556,0.06285393610547088,7,14,t1 diabetes,metabolic,3255,r17,431,2,21,283,ST000045,6,15,LC,Agilent 6220 TOF MS,C18,negative,plasma
+121,IPO_aligned_ST000045_11mar_pos_1_II,0.4777777777777778,0.05665577237325315,7,14,t1 diabetes,metabolic,20154,r18,4781,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+122,IPO_aligned_ST000045_11mar_pos_0_ND,0.2333333333333333,0.20548046676563259,7,14,t1 diabetes,metabolic,20154,r19,2701,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+123,IPO_aligned_ST000045_11mar_pos_2_IW,0.9333333333333332,0.09428090415820632,7,14,t1 diabetes,metabolic,20154,r20,671,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
+124,IPO_aligned_ST000045_17mar_neg_1_II,0.2416666666666666,0.11606990230986765,7,14,t1 diabetes,metabolic,47102,r21,2,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+125,IPO_aligned_ST000045_17mar_neg_0_ND,0.37777777777777777,0.17284832429004496,7,14,t1 diabetes,metabolic,47102,r22,6110,2,21,0,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+126,IPO_aligned_ST000045_17mar_neg_2_IW,0.875,0.1767766952966369,7,14,t1 diabetes,metabolic,47102,r23,222,2,21,222,ST000045,6,15,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
+127,AN000076_0_CN,0.6,0.07483314773547885,15,30,Alzheimer's,neurological,11203,s0,5587,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+128,AN000076_2_MCI,0.5133333333333333,0.04109609335312654,15,30,Alzheimer's,neurological,11203,s1,5686,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+129,AN000076_1_AD,0.2733333333333333,0.11813363431112903,15,30,Alzheimer's,neurological,11203,s2,344,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+130,AN000077_0_CN,0.7266666666666666,0.1225651754056683,15,30,Alzheimer's,neurological,17707,s3,730,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+131,AN000077_2_MCI,0.5133333333333333,0.12256517540566826,15,30,Alzheimer's,neurological,17707,s4,4204,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+132,AN000077_1_AD,0.5533333333333333,0.024944382578492925,15,30,Alzheimer's,neurological,17707,s5,551,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+133,AN000078_0_CN,0.3333333333333333,0.11585431464655181,15,30,Alzheimer's,neurological,6494,s6,2888,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+134,AN000078_2_MCI,0.4466666666666666,0.04988876515698588,15,30,Alzheimer's,neurological,6494,s7,644,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+135,AN000078_1_AD,0.6,0.11430952132988166,15,30,Alzheimer's,neurological,6494,s8,2734,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+136,AN000079_0_CN,0.35333333333333333,0.1472714802291635,15,30,Alzheimer's,neurological,11369,s9,5625,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+137,AN000079_2_MCI,0.45999999999999996,0.13366625103842278,15,30,Alzheimer's,neurological,11369,s10,3675,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+138,AN000079_1_AD,0.5466666666666667,0.15691469727919757,15,30,Alzheimer's,neurological,11369,s11,1514,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+139,IPO_aligned_ST000046_20120606_neg_hilic_0_CN,0.41333333333333333,0.0618241233033047,15,30,Alzheimer's,neurological,18223,s12,579,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+140,IPO_aligned_ST000046_20120606_neg_hilic_2_MCI,0.34,0.11430952132988166,15,30,Alzheimer's,neurological,18223,s13,0,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+141,IPO_aligned_ST000046_20120606_neg_hilic_1_AD,0.4933333333333334,0.13888444437333108,15,30,Alzheimer's,neurological,18223,s14,289,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,plasma
+142,IPO_aligned_ST000046_20120613_neg_hilic_0_CN,0.7933333333333333,0.05249338582674535,15,30,Alzheimer's,neurological,9685,s15,1431,2,45,2,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,CSF
+143,IPO_aligned_ST000046_20120613_neg_hilic_2_MCI,0.52,0.028284271247461926,15,30,Alzheimer's,neurological,9685,s16,5527,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,CSF
+144,IPO_aligned_ST000046_20120613_neg_hilic_1_AD,0.6333333333333333,0.20548046676563253,15,30,Alzheimer's,neurological,9685,s17,3499,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,negative,CSF
+145,IPO_aligned_ST000046_20120618_pos_c18_0_CN,0.8000000000000002,0.10198039027185574,15,30,Alzheimer's,neurological,12009,s18,1540,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+146,IPO_aligned_ST000046_20120618_pos_c18_2_MCI,0.41333333333333333,0.21312489817527708,15,30,Alzheimer's,neurological,12009,s19,5967,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+147,IPO_aligned_ST000046_20120618_pos_c18_1_AD,0.54,0.05887840577551898,15,30,Alzheimer's,neurological,12009,s20,8,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,plasma
+148,IPO_aligned_ST000046_20120620_neg_c18_0_CN,0.6133333333333333,0.20286832072937253,15,30,Alzheimer's,neurological,13671,s21,143,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+149,IPO_aligned_ST000046_20120620_neg_c18_2_MCI,0.39999999999999997,0.15577761927397232,15,30,Alzheimer's,neurological,13671,s22,0,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+150,IPO_aligned_ST000046_20120620_neg_c18_1_AD,0.6,0.10708252269472673,15,30,Alzheimer's,neurological,13671,s23,3913,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,plasma
+151,IPO_aligned_ST000046_20120625_pos_c18_0_CN,0.6466666666666667,0.09568466729604881,15,30,Alzheimer's,neurological,6167,s24,2715,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,CSF
+152,IPO_aligned_ST000046_20120625_pos_c18_2_MCI,0.37333333333333335,0.0524933858267454,15,30,Alzheimer's,neurological,6167,s25,14,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,CSF
+153,IPO_aligned_ST000046_20120625_pos_c18_1_AD,0.4066666666666667,0.1049867716534908,15,30,Alzheimer's,neurological,6167,s26,103,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,positive,CSF
+154,XCMS-Report-annotated-SingleClass.04jun12_0_CN,0.6666666666666666,0.12036980056845194,15,30,Alzheimer's,neurological,2096,s27,765,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+155,XCMS-Report-annotated-SingleClass.04jun12_2_MCI,0.6866666666666669,0.12256517540566826,15,30,Alzheimer's,neurological,2096,s28,2035,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+156,XCMS-Report-annotated-SingleClass.04jun12_1_AD,0.84,0.16970562748477142,15,30,Alzheimer's,neurological,2096,s29,185,2,45,9,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,plasma
+157,XCMS-Report-annotated-SingleClass.11jun12_0_CN,0.82,0.07483314773547889,15,30,Alzheimer's,neurological,1003,s30,988,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,CSF
+158,XCMS-Report-annotated-SingleClass.11jun12_2_MCI,0.9066666666666667,0.05249338582674538,15,30,Alzheimer's,neurological,1003,s31,4,2,45,10,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,CSF
+159,XCMS-Report-annotated-SingleClass.11jun12_1_AD,0.8066666666666666,0.1892675942210452,15,30,Alzheimer's,neurological,1003,s32,27,2,45,9,ST000046,15,30,LC,Agilent 6220 TOF M,HILIC,positive,CSF
+160,XCMS-Report-annotated-SingleClass.27jun12_0_CN,0.7000000000000001,0.06531972647421815,15,30,Alzheimer's,neurological,942,s33,922,2,45,6,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,CSF
+161,XCMS-Report-annotated-SingleClass.27jun12_2_MCI,0.66,0.18547236990991406,15,30,Alzheimer's,neurological,942,s34,6,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,CSF
+162,XCMS-Report-annotated-SingleClass.27jun12_1_AD,0.5933333333333334,0.033993463423951896,15,30,Alzheimer's,neurological,942,s35,275,2,45,0,ST000046,15,30,LC,Agilent 6220 TOF M,C18,negative,CSF
+163,AN000101,0.8810706018518518,0.06502781067645287,47,47,Depression,neurological,167,t0,102,2,94,83,ST000063,30,64,GC,Leco GC-TOF,silica,positive,CSF
+164,XCMS-Report-annotated-SingleClass-GCTOF.,0.9098498774509803,0.06314443405975001,49,48,Depression,neurological,3840,t1,2325,2,97,521,ST000063,32,65,GC,Leco GC-TOF,silica,positive,CSF
+165,AN000452_0_Healthy,0.6232875203735518,0.03656655140546143,84,140,Colorectal Cancer,cancer,113,u0,81,2,224,0,ST000284,74,150,LC,Agilent 1260-AB Sciex 5500,HILIC,unknown,serum
+166,AN000452_1_CRC,0.85728050193459,0.02116326821176237,64,160,Colorectal Cancer,cancer,113,u1,46,2,224,36,ST000284,74,150,LC,Agilent 1260-AB Sciex 5500,HILIC,unknown,serum
+167,AN000452_2_Polyp,0.5811198325484038,0.03863778610596767,76,148,Colorectal Cancer,cancer,113,u2,113,2,224,6,ST000284,74,150,LC,Agilent 1260-AB Sciex 5500,HILIC,unknown,serum
+168,AN000525_0_Control,0.9841269841269842,0.022447834323382432,10,20,"minimal change disease, focal segmental sclerosis",glomerular,179,v0,80,2,30,76,ST000329,9,21,LC,Agilent 6530 QTOF,C18,positive,urine
+169,AN000525_2_FSGS,0.8412698412698414,0.15713484026367724,9,21,"minimal change disease, focal segmental sclerosis",glomerular,179,v1,38,2,30,0,ST000329,10,20,LC,Agilent 6530 QTOF,C18,positive,urine
+170,AN000525_1_MCD,0.7427248677248678,0.10959296055862007,11,19,"minimal change disease, focal segmental sclerosis",glomerular,179,v2,15,2,30,0,ST000329,9,21,LC,Agilent 6530 QTOF,C18,positive,urine
+171,AN000526_0_Control,0.9259259259259259,0.10475656017578482,10,20,"minimal change disease, focal segmental sclerosis",glomerular,108,v3,2,2,30,47,ST000329,9,21,LC,Agilent 6530 QTOF,C18,negative,urine
+172,AN000526_2_FSGS,0.5476190476190476,0.05143444998736399,9,21,"minimal change disease, focal segmental sclerosis",glomerular,108,v4,1,2,30,0,ST000329,10,20,LC,Agilent 6530 QTOF,C18,negative,urine
+173,AN000526_1_MCD,0.34722222222222215,0.08561686115234685,11,19,"minimal change disease, focal segmental sclerosis",glomerular,108,v5,1,2,30,0,ST000329,9,21,LC,Agilent 6530 QTOF,C18,negative,urine
+174,IPO_aligned_ST000329_pos_0_Control,0.9761904761904763,0.033671751485073675,10,20,"minimal change disease, focal segmental sclerosis",glomerular,17498,v6,56,2,30,2090,ST000329,9,21,LC,Agilent 6530 QTOF,C18,positive,urine
+175,IPO_aligned_ST000329_pos_2_FSGS,0.761904761904762,0.10286889997472791,9,21,"minimal change disease, focal segmental sclerosis",glomerular,17498,v7,1241,2,30,0,ST000329,10,20,LC,Agilent 6530 QTOF,C18,positive,urine
+176,IPO_aligned_ST000329_pos_1_MCD,0.8353174603174603,0.10450154033542616,11,19,"minimal change disease, focal segmental sclerosis",glomerular,17498,v8,3581,2,30,0,ST000329,9,21,LC,Agilent 6530 QTOF,C18,positive,urine
+177,IPO_aligned_ST000329_neg_0_Control,1.0,0.0,10,20,"minimal change disease, focal segmental sclerosis",glomerular,6256,v9,247,2,30,510,ST000329,9,21,LC,Agilent 6530 QTOF,C18,negative,urine
+178,IPO_aligned_ST000329_neg_2_FSGS,0.4761904761904762,0.10286889997472795,9,21,"minimal change disease, focal segmental sclerosis",glomerular,6256,v10,2600,2,30,0,ST000329,10,20,LC,Agilent 6530 QTOF,C18,negative,urine
+179,IPO_aligned_ST000329_neg_1_MCD,0.6858465608465609,0.1347292189210008,11,19,"minimal change disease, focal segmental sclerosis",glomerular,6256,v11,86,2,30,0,ST000329,9,21,LC,Agilent 6530 QTOF,C18,negative,urine
+180,AN000580,0.9876581196581197,0.012760367942996998,135,76,Breast Cancer,cancer,128,w0,10,2,211,51,ST000355,70,141,GC,LECO-Pegasus HT TOF MS,silica,positive,plasma
+181,AN000581,0.9685470085470085,0.021419360479155637,135,76,Breast Cancer,cancer,99,w1,14,2,211,47,ST000355,70,141,LC,Agilent 6220 MSD,C18,unknown,plasma
+182,AN000582,0.9931372549019608,0.009705387192756551,103,31,Breast Cancer,cancer,101,x0,2,2,134,70,ST000356,44,90,GC,LECO-Pegasus HT TOF MS,silica,positive,serum
+183,AN000583,0.9923860453272217,0.007404678000105023,103,31,Breast Cancer,cancer,171,x1,1,2,134,110,ST000356,44,90,LC,Agilent 6220 MSD,C18,unknown,serum
+184,AN000615,0.5064977257959714,0.025913627813657258,56,36,interstitial cystitis/painful bladder syndrome,other,200,y0,10,2,92,0,ST000381,30,62,GC,Pegasus III GC-TOFMS,silica,positive,urine
+185,AN000616,0.7160087719298246,0.144944362129976,58,36,interstitial cystitis/painful bladder syndrome,other,1280,y1,1054,2,94,0,ST000381,31,63,LC,Agilent 6530 Accurate Mass QTOF,C18,positive,urine
+186,AN000617,0.4925438596491228,0.01678551041845934,58,36,interstitial cystitis/painful bladder syndrome,other,678,y2,0,2,94,0,ST000381,31,63,LC,Agilent 6530 Accurate Mass QTOF,C18,negative,urine
+187,IPO_aligned_ST000381_pos,0.49228395061728397,0.010912141684977608,56,36,interstitial cystitis/painful bladder syndrome,other,2633,y3,16,2,92,0,ST000381,30,62,GC,Pegasus III GC-TOFMS,silica,positive,urine
+188,AN000618,0.9444444444444445,0.03928371006591927,44,12,Obesity - Non-diabetic and T2 diabetic,metabolic,106,z0,3,2,56,15,ST000383,18,38,GC,LECO Pegasus IV,silica,positive,plasma
+189,AN000603_plasma,0.6887121212121213,0.045779269390945704,47,32,lung cancer - adenocarcinoma,cancer,181,A0,181,2,79,6,ST000385,25,54,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,plasma
+190,AN000603_serum,0.7024621212121213,0.07829143199706204,48,31,lung cancer - adenocarcinoma,cancer,181,A1,173,2,79,0,ST000385,26,53,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,serum
+191,AN000620_plasma,0.8333257747543463,0.07170841134296731,43,43,lung cancer - adenocarcinoma,cancer,152,A2,9,2,86,19,ST000385,28,58,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,plasma
+192,AN000620_serum,0.7282086167800456,0.08199965373684015,43,43,lung cancer - adenocarcinoma,cancer,152,A3,7,2,86,19,ST000385,28,58,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,serum
+193,IPO_aligned_ST000385_adc2_plasma,0.6559343434343435,0.049299047993319814,47,32,lung cancer - adenocarcinoma,cancer,1506,A4,1436,2,79,0,ST000385,25,54,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,plasma
+194,IPO_aligned_ST000385_adc2_serum,0.5214015151515151,0.06375518758489622,48,31,lung cancer - adenocarcinoma,cancer,987,A5,35,2,79,0,ST000385,26,53,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,serum
+195,IPO_aligned_ST000385_adc1_plasma,0.7940967498110355,0.031260515439287734,43,43,lung cancer - adenocarcinoma,cancer,2558,A6,17,2,86,76,ST000385,28,58,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,plasma
+196,IPO_aligned_ST000385_adc1_serum,0.8074829931972789,0.10843994049740506,43,43,lung cancer - adenocarcinoma,cancer,1842,A7,18,2,86,48,ST000385,28,58,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,serum
+197,AN000624_LC,0.48636363636363633,0.01928473039599677,65,29,Lung cancer,cancer,988,B0,0,2,94,0,ST000388,30,64,LC,Agilent 6530 Accurate Mass QTOF,HILIC,positive,serum
+198,IPO_aligned_ST000388_LC,0.666955266955267,0.0346795009011716,65,29,Lung cancer,cancer,43044,B1,196,2,94,0,ST000388,30,64,LC,Agilent 6530 Accurate Mass QTOF,HILIC,positive,serum
+199,AN000625_GC,0.5654882154882156,0.01476691061251745,65,29,Lung cancer,cancer,129,C0,125,2,94,0,ST000389,30,64,GC,Pegasus III GC-TOFMS,silica,positive,serum
+200,IPO_aligned_ST000388_GC,0.6887926887926888,0.07643273967545938,65,29,Lung cancer,cancer,1984,C1,1971,2,94,0,ST000389,30,64,GC,Pegasus III GC-TOFMS,silica,positive,serum
+201,AN000628_plasma,0.8183794227750272,0.033452609366581045,41,41,Lung cancer,cancer,158,D0,157,2,82,25,ST000392,26,56,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
+202,AN000628_serum,0.594312281125468,0.07162479369385932,41,41,Lung cancer,cancer,158,D1,25,2,82,11,ST000392,26,56,GC,Agilent 6890 GC (ion trap),silica,positive,serum
+203,IPO_aligned_ST000392_plasma,0.6446483919011392,0.07282202503894446,41,41,Lung cancer,cancer,1966,D2,1686,2,82,25,ST000392,26,56,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
+204,IPO_aligned_ST000392_serum,0.6018697419796321,0.07319409781988773,41,41,Lung cancer,cancer,701,D3,10,2,82,0,ST000392,26,56,GC,Agilent 6890 GC (ion trap),silica,positive,serum
+205,AN000633,0.5556320783593511,0.03972454927489485,100,199,"lung cancer - non-small-cell lung cancer (adenocarcinoma, etc)",cancer,129,E0,129,2,299,0,ST000396,99,200,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
+206,IPO_aligned_ST000396,0.5063905611036268,0.0170384996195585,100,199,"lung cancer - non-small-cell lung cancer (adenocarcinoma, etc)",cancer,796,E1,792,2,299,0,ST000396,99,200,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
+207,AN000705,0.8991452991452991,0.023809210730229315,45,39,Chronic fatigue,other,215,F0,212,2,84,40,ST000450,28,56,LC,Qtrap 5500 Triple quadrupol,HILIC,positive,plasma
+208,AN000706,0.7658119658119658,0.07207920903353171,45,39,Chronic fatigue,other,206,F1,206,2,84,0,ST000450,28,56,LC,Qtrap 5500 Triple quadrupol,HILIC,negative,plasma
+209,AN000888,0.9986772486772487,0.001870652860281865,214,20,Malaria (P. vivax),infectious,20347,G0,693,2,234,4254,ST000578,77,157,LC,Thermo LTQ-FT Velos Orbitrap,C18,positive,plasma
+210,AN000889,0.9886914077054922,0.008334597540516861,214,20,Malaria (P. vivax),infectious,16796,G1,356,2,234,3702,ST000578,77,157,LC,Thermo LTQ-FT Velos Orbitrap,Anion Exchange,positive,plasma
+211,IPO_aligned_ST000578_AE,0.9969818913480886,0.0029616904313641405,214,20,Malaria (P. vivax),infectious,8473,G2,97,2,234,5260,ST000578,77,157,LC,Thermo LTQ-FT Velos Orbitrap,Anion Exchange,positive,plasma
+212,IPO_aligned_ST000578_C18,1.0,0.0,214,20,Malaria (P. vivax),infectious,20666,G3,561,2,234,8641,ST000578,77,157,LC,Thermo LTQ-FT Velos Orbitrap,C18,positive,plasma
+213,AN000929,0.9259259259259259,0.10475656017578482,10,10,Stability of dried blood samples - diabetic men,metabolic,263,H0,4,2,20,36,ST000608,6,14,LC,Velos Orbitrap Pro,C18,positive,DBS-serum
+214,AN000930,0.9259259259259259,0.10475656017578482,10,10,Stability of dried blood samples - diabetic men,metabolic,73,H1,73,2,20,0,ST000608,6,14,LC,Velos Orbitrap Pro,C18,negative,DBS-serum
+215,AN000931,0.8009259259259259,0.15396564026218418,10,10,Stability of dried blood samples - diabetic men,metabolic,86,H2,84,2,20,0,ST000608,6,14,GC,Agilent GC 7890A,5% phenyl-methyl silica,both,DBS-serum
+216,AN001201_0_Healthy,0.8500810185185186,0.0437062569140024,74,144,scleroderma PAH,autoimmune,138,I0,22,2,218,39,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+217,AN001201_4_PAH,0.6188034188034188,0.01964882723516693,38,180,scleroderma PAH,autoimmune,138,I1,138,2,218,15,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+218,AN001201_1_LowRisk,0.5919266557197592,0.03693013918788735,44,174,scleroderma PAH,autoimmune,138,I2,14,2,218,1,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+219,AN001201_2_Normal Pressures,0.7317219817219817,0.07713667958729963,20,198,scleroderma PAH,autoimmune,138,I3,46,2,218,6,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+220,AN001201_3_Borderline Pressures,0.6413960090172831,0.04616631814677669,42,176,scleroderma PAH,autoimmune,138,I4,50,2,218,18,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+221,AN001202_0_Healthy,0.8131481481481481,0.07073407472955572,74,144,scleroderma PAH,autoimmune,133,I5,22,2,218,29,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+222,AN001202_4_PAH,0.7680199430199431,0.02719324342640987,38,180,scleroderma PAH,autoimmune,133,I6,14,2,218,7,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+223,AN001202_1_LowRisk,0.6584564860426929,0.0833890333990044,44,174,scleroderma PAH,autoimmune,133,I7,20,2,218,1,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+224,AN001202_2_Normal Pressures,0.6121933621933623,0.07948141807655623,20,198,scleroderma PAH,autoimmune,133,I8,14,2,218,13,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+225,AN001202_3_Borderline Pressures,0.67489076285102,0.06872247923736084,42,176,scleroderma PAH,autoimmune,133,I9,133,2,218,5,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+226,IPO_aligned_ST000763_untar_neg_0_Healthy,0.8765393518518518,0.03657202657770944,74,144,scleroderma PAH,autoimmune,28580,I10,25169,2,218,8936,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+227,IPO_aligned_ST000763_untar_neg_4_PAH,0.7740384615384616,0.06355912810701785,38,180,scleroderma PAH,autoimmune,28580,I11,14015,2,218,3339,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+228,IPO_aligned_ST000763_untar_neg_1_LowRisk,0.8197591680350301,0.05020610297581072,44,174,scleroderma PAH,autoimmune,28580,I12,1530,2,218,214,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+229,IPO_aligned_ST000763_untar_neg_2_Normal Pressures,0.8186628186628186,0.056068028989296595,20,198,scleroderma PAH,autoimmune,28580,I13,4204,2,218,565,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+230,IPO_aligned_ST000763_untar_neg_3_Borderline Pressures,0.7384222537641593,0.028596234495737515,42,176,scleroderma PAH,autoimmune,28580,I14,22996,2,218,1713,ST000763,72,146,LC,6530 Q-TOF,C18,negative,plasma
+231,IPO_aligned_ST000763_untar_pos_0_Healthy,0.881840277777778,0.06707644964106715,74,144,scleroderma PAH,autoimmune,28673,I15,2433,2,218,9844,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+232,IPO_aligned_ST000763_untar_pos_4_PAH,0.806445868945869,0.05132390366401019,38,180,scleroderma PAH,autoimmune,28673,I16,23484,2,218,6055,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+233,IPO_aligned_ST000763_untar_pos_1_LowRisk,0.85727969348659,0.06676293309412983,44,174,scleroderma PAH,autoimmune,28673,I17,5098,2,218,962,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+234,IPO_aligned_ST000763_untar_pos_2_Normal Pressures,0.664983164983165,0.21981143089494232,20,198,scleroderma PAH,autoimmune,28673,I18,4155,2,218,370,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+235,IPO_aligned_ST000763_untar_pos_3_Borderline Pressures,0.8015988978876178,0.010597669984540859,42,176,scleroderma PAH,autoimmune,28673,I19,2811,2,218,2348,ST000763,72,146,LC,6530 Q-TOF,C18,positive,plasma
+236,AN001390all_author,0.6493284493284494,0.07651226620462831,40,44,Hepatocellular Carcinoma,cancer,56,J0,56,2,84,0,ST000865,27,57,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
+237,IPO_aligned_ST000865_batch2_raw,0.6507936507936508,0.0682724227543066,19,22,Hepatocellular Carcinoma,cancer,1949,J1,1586,2,41,0,ST000865,13,28,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
+238,IPO_aligned_ST000865_batch3_raw,0.489795918367347,0.014430750636460144,21,22,Hepatocellular Carcinoma,cancer,1886,J2,1848,2,43,0,ST000865,14,29,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
+239,IPO_aligned_ST000865_onebatch,0.523931623931624,0.11725897161266212,40,44,Hepatocellular Carcinoma,cancer,754,J3,683,2,84,0,ST000865,27,57,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
+240,AN001450,0.9870573384826568,0.006394861025110009,202,190,Lyme disease,infectious,95,K0,95,2,392,87,ST000888,130,262,LC,Agilent 6250 - qTOF,C8,positive,serum
+241,AN001503,0.7530041152263375,0.057770156485613185,29,29,Breast cancer,cancer,77,L0,77,2,58,13,ST000918,18,40,GC,Agilent 5973 - single quad,5% phenyl silica,positive,plasma
