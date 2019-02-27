@@ -1,344 +1,541 @@
-Accession,analysis,Instrument_category,Instument,column,mode,type
-ST000389,AN000625_GC,GC,Pegasus III GC-TOFMS,silica,positive,serum
-ST000389,IPO_aligned_ST000388_GC,GC,Pegasus III GC-TOFMS,silica,positive,serum
-ST000388,AN000624_LC,LC,Agilent 6530 Accurate Mass QTOF,HILIC,positive,serum
-ST000388,IPO_aligned_ST000388_LC,LC,Agilent 6530 Accurate Mass QTOF,HILIC,positive,serum
-MTBLS28 ,m_mtbls28_POS_v2_maf,LC,Waters Xevo Q-Tof Premier,C18,positive,urine
-MTBLS28 ,m_mtbls28_NEG_v2_maf,LC,Waters Xevo Q-Tof Premier,C18,negative,urine
-MTBLS28 ,IPO_aligned_MTBLS28_pos,LC,Waters Xevo Q-Tof Premier,C18,positive,urine
-MTBLS28 ,IPO_aligned_MTBLS28_neg,LC,Waters Xevo Q-Tof Premier,C18,negative,urine
-ST000392,AN000628_plasma,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
-ST000392,AN000628_serum,GC,Agilent 6890 GC (ion trap),silica,positive,serum
-ST000392,IPO_aligned_ST000392_plasma,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
-ST000392,IPO_aligned_ST000392_serum,GC,Agilent 6890 GC (ion trap),silica,positive,serum
-ST000396,AN000633,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
-ST000396,IPO_aligned_ST000396,GC,Agilent 6890 GC (ion trap),silica,positive,plasma
-ST000385,IPO_aligned_ST000385_adc1_plasma,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,plasma
-ST000385,IPO_aligned_ST000385_adc1_serum,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,serum
-ST000385,IPO_aligned_ST000385_adc2_plasma,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,plasma
-ST000385,IPO_aligned_ST000385_adc2_serum,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,serum
-ST000385,AN000603_plasma,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,plasma
-ST000385,AN000603_serum,GC,Agilent 6890 GC - LECO Pegasus IV,silica,positive,serum
-ST000385,AN000620_plasma,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,plasma
-ST000385,AN000620_serum,GC,Agilent 6890 GC - LECO GC TOF,silica,positive,serum
-MTBLS92,IPO_aligned_MTBLS92,LC,Q-Tof Premier (Waters),C18,positive,serum
-MTBLS92,Author_data,LC,Q-Tof Premier (Waters),C18,positive,serum
-ST000865,IPO_aligned_ST000865_onebatch,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,IPO_aligned_ST000865_batch2,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,IPO_aligned_ST000865_batch3,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,IPO_aligned_ST000865_batch2_raw,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,IPO_aligned_ST000865_batch3_raw,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,AN001390,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-ST000865,AN001390all_author,GC,Agilent 5975C MSD - single quad,Phenyl Arylene,positive,plasma
-MTBLS17,IPO_aligned_MTBLS17_neg_onebatch,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,IPO_aligned_MTBLS17_neg_exp1,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,IPO_aligned_MTBLS17_neg_exp2,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,IPO_aligned_MTBLS17_neg_exp3,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,Peaklist_EXP1_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,Peaklist_EXP2_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,Peaklist_EXP3_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS17,IPO_aligned_MTBLS17_pos_onebatch,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,IPO_aligned_MTBLS17_pos_exp1,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,IPO_aligned_MTBLS17_pos_exp2,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,IPO_aligned_MTBLS17_pos_exp3,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,Peaklist_EXP1_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,Peaklist_EXP2_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS17,Peaklist_EXP3_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,Exp1F_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,Exp1R_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,Exp2F_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,Exp2R_NEG,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_all_F_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_all_R_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_all_F_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_all_R_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_exp1_F,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_exp1_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_exp2_F,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,IPO_aligned_MTBLS19_neg_exp2_R,LC,Waters Q-Tof Premier,C18,negative,serum
-MTBLS19,Exp1F_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,Exp1R_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,Exp2F_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,Exp2R_POS,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_exp2_R,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_exp2_F,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_exp1_R,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS19,IPO_aligned_MTBLS19_pos_exp1_F,LC,Waters Q-Tof Premier,C18,positive,serum
-MTBLS105,IPO_aligned_MTBLS105_qMS,GC,Agilent 5975C MSD,Phenyl Arylene,positive,plasma
-MTBLS105,IPO_aligned_MTBLS105_SIM-MS,GC,Agilent 5975C MSD,Phenyl Arylene,positive,plasma
-MTBLS105,a_mtbls105_GC_TOF_mass_spectrometry,GC,LECO Pegasus,silica,positive,plasma
-ST000421,13jan12_57-r0-Poor glycemic control,LC,Agilent 6220 ToF MS,HILIC,positive,plasma
-ST000421,09feb12_57-r0-Poor glycemic control,LC,Agilent 6220 ToF MS,HILIC,negative,plasma
-ST000421,16feb12_57-r0-Poor glycemic control,LC,Agilent 6220 ToF MS,C18,positive,plasma
-ST000421,14feb12_57-r0-Poor glycemic control,LC,Agilent 6220 ToF MS,C18,negative,plasma
-ST000421,10jan12_62-r0-Good glycemic control,LC,Agilent 6220 ToF MS,HILIC,postiive,plasma
-ST000421,08feb12_62-r0-Good glycemic control,LC,Agilent 6220 ToF MS,HILIC,negative,plasma
-ST000421,15feb12_62-r0-Good glycemic control ,LC,Agilent 6220 ToF MS,C18,positive,plasma
-ST000421,13feb12_62-r0-Good glycemic control ,LC,Agilent 6220 ToF MS,C18,negative,plasma
-ST000421,IPO_aligned_ST000421_n_hil,LC,Agilent 6220 ToF MS,HILIC,negative,plasma
-ST000421,IPO_aligned_ST000421_p_hil,LC,Agilent 6220 ToF MS,HILIC,positive,plasma
-ST000421,IPO_aligned_ST000421_nc18,LC,Agilent 6220 ToF MS,C18,negative,plasma
-ST000421,IPO_aligned_ST000421_pc18,LC,Agilent 6220 ToF MS,C18,positive,plasma
-ST000045,02Feb10-21-r0,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,02Feb10-21-r0_1_II,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,02Feb10-21-r0_0_ND,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,02Feb10-21-r0_2_IW,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,11March10-21-r0,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,11March10-21-r0_1_II,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,11March10-21-r0_0_ND,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,11March10-21-r0_2_IW,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,11Feb10-21-r0,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,11Feb10-21-r0_1_II,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,11Feb10-21-r0_0_ND,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,11Feb10-21-r0_2_IW,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,17March10-21-r0,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,17March10-21-r0_1_II,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,17March10-21-r0_0_ND,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,17March10-21-r0_2_IW,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,IPO_aligned_ST000045_2feb_pos,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,IPO_aligned_ST000045_2feb_pos_1_II,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,IPO_aligned_ST000045_2feb_pos_0_ND,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,IPO_aligned_ST000045_2feb_pos_2_IW,LC,Agilent 6220 TOF MS,C18,positive,plasma
-ST000045,IPO_aligned_ST000045_11mar_pos,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,IPO_aligned_ST000045_11mar_pos_1_II,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,IPO_aligned_ST000045_11mar_pos_0_ND,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,IPO_aligned_ST000045_11mar_pos_2_IW,LC,Agilent 6220 TOF MS,HILIC,positive,plasma
-ST000045,IPO_aligned_ST000045_11feb_neg,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,IPO_aligned_ST000045_11feb_neg_1_II,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,IPO_aligned_ST000045_11feb_neg_0_ND,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,IPO_aligned_ST000045_11feb_neg_2_IW,LC,Agilent 6220 TOF MS,C18,negative,plasma
-ST000045,IPO_aligned_ST000045_17mar_neg,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,IPO_aligned_ST000045_17mar_neg_1_II,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,IPO_aligned_ST000045_17mar_neg_0_ND,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-ST000045,IPO_aligned_ST000045_17mar_neg_2_IW,LC,Agilent 6220 TOF MS,HILIC,negative,plasma
-MTBLS352 ,DEMO_neg-norm-metaboAnalystInput,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,DEMO_neg-norm-metaboAnalystInput_0_NGT,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,DEMO_neg-norm-metaboAnalystInput_1_T2D,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,DEMO_neg-norm-metaboAnalystInput_2_Pre-DM,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,DEMO_pos-norm-metaboAnalystInput,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
-MTBLS352 ,DEMO_pos-norm-metaboAnalystInput_0_NGT,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
-MTBLS352 ,DEMO_pos-norm-metaboAnalystInput_1_T2D,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
-MTBLS352 ,DEMO_pos-norm-metaboAnalystInput_2_Pre-DM,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
-MTBLS352 ,IPO_aligned_MTBLS352_neg,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,IPO_aligned_MTBLS352_neg_0_NGT,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,IPO_aligned_MTBLS352_neg_1_T2D,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS352 ,IPO_aligned_MTBLS352_neg_2_Pre-DM,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-ST000381,IPO_aligned_ST000381_pos,GC,Pegasus III GC-TOFMS,silica,positive,urine
-ST000381,AN000615,GC,Pegasus III GC-TOFMS,silica,positive,urine
-ST000381,AN000616,LC,Agilent 6530 Accurate Mass QTOF,C18,positive,urine
-ST000381,AN000617,LC,Agilent 6530 Accurate Mass QTOF,C18,negative,urine
-ST000046 ,AN000076,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,AN000076_0_CN,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,AN000076_2_MCI,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,AN000076_1_AD,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,AN000077,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,AN000077_0_CN,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,AN000077_2_MCI,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,AN000077_1_AD,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,AN000078,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,AN000078_0_CN,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,AN000078_2_MCI,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,AN000078_1_AD,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,AN000079,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,AN000079_0_CN,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,AN000079_2_MCI,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,AN000079_1_AD,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,XCMS-Report-annotated-SingleClass.04jun12,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,XCMS-Report-annotated-SingleClass.04jun12_0_CN,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,XCMS-Report-annotated-SingleClass.04jun12_2_MCI,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,XCMS-Report-annotated-SingleClass.04jun12_1_AD,LC,Agilent 6220 TOF M,HILIC,positive,plasma
-ST000046 ,IPO_aligned_ST000046_20120606_neg_hilic,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120606_neg_hilic_0_CN,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120606_neg_hilic_2_MCI,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120606_neg_hilic_1_AD,LC,Agilent 6220 TOF M,HILIC,negative,plasma
-ST000046 ,XCMS-Report-annotated-SingleClass.11jun12,LC,Agilent 6220 TOF M,HILIC,positive,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.11jun12_0_CN,LC,Agilent 6220 TOF M,HILIC,positive,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.11jun12_2_MCI,LC,Agilent 6220 TOF M,HILIC,positive,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.11jun12_1_AD,LC,Agilent 6220 TOF M,HILIC,positive,CSF
-ST000046 ,IPO_aligned_ST000046_20120613_neg_hilic,LC,Agilent 6220 TOF M,HILIC,negative,CSF
-ST000046 ,IPO_aligned_ST000046_20120613_neg_hilic_0_CN,LC,Agilent 6220 TOF M,HILIC,negative,CSF
-ST000046 ,IPO_aligned_ST000046_20120613_neg_hilic_2_MCI,LC,Agilent 6220 TOF M,HILIC,negative,CSF
-ST000046 ,IPO_aligned_ST000046_20120613_neg_hilic_1_AD,LC,Agilent 6220 TOF M,HILIC,negative,CSF
-ST000046 ,IPO_aligned_ST000046_20120618_pos_c18,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,IPO_aligned_ST000046_20120618_pos_c18_0_CN,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,IPO_aligned_ST000046_20120618_pos_c18_2_MCI,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,IPO_aligned_ST000046_20120618_pos_c18_1_AD,LC,Agilent 6220 TOF M,C18,positive,plasma
-ST000046 ,IPO_aligned_ST000046_20120620_neg_c18,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120620_neg_c18_0_CN,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120620_neg_c18_2_MCI,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120620_neg_c18_1_AD,LC,Agilent 6220 TOF M,C18,negative,plasma
-ST000046 ,IPO_aligned_ST000046_20120625_pos_c18,LC,Agilent 6220 TOF M,C18,positive,CSF
-ST000046 ,IPO_aligned_ST000046_20120625_pos_c18_0_CN,LC,Agilent 6220 TOF M,C18,positive,CSF
-ST000046 ,IPO_aligned_ST000046_20120625_pos_c18_2_MCI,LC,Agilent 6220 TOF M,C18,positive,CSF
-ST000046 ,IPO_aligned_ST000046_20120625_pos_c18_1_AD,LC,Agilent 6220 TOF M,C18,positive,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.27jun12,LC,Agilent 6220 TOF M,C18,negative,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.27jun12_0_CN,LC,Agilent 6220 TOF M,C18,negative,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.27jun12_2_MCI,LC,Agilent 6220 TOF M,C18,negative,CSF
-ST000046 ,XCMS-Report-annotated-SingleClass.27jun12_1_AD,LC,Agilent 6220 TOF M,C18,negative,CSF
-MTBLS72,IPO_aligned_MTBLS72_neg,LC,Waters Xevo G2 QTof,C18,negative,plasma
-MTBLS72,IPO_aligned_MTBLS72_pos,LC,Waters Xevo G2 QTof,C18,positive,plasma
-ST000329 ,IPO_aligned_ST000329_pos,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,IPO_aligned_ST000329_pos_0_Control,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,IPO_aligned_ST000329_pos_2_FSGS,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,IPO_aligned_ST000329_pos_1_MCD,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,IPO_aligned_ST000329_neg,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,IPO_aligned_ST000329_neg_0_Control,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,IPO_aligned_ST000329_neg_2_FSGS,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,IPO_aligned_ST000329_neg_1_MCD,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,AN000525,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,AN000525_0_Control,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,AN000525_2_FSGS,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,AN000525_1_MCD,LC,Agilent 6530 QTOF,C18,positive,urine
-ST000329 ,AN000526,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,AN000526_0_Control,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,AN000526_2_FSGS,LC,Agilent 6530 QTOF,C18,negative,urine
-ST000329 ,AN000526_1_MCD,LC,Agilent 6530 QTOF,C18,negative,urine
-MTBLS354,IPO_aligned_MTBLS354_neg,LC,Agilent 6540 Q-TOF,C18,negative,plasma
-MTBLS354,IPO_aligned_MTBLS354_pos,LC,Agilent 6540 Q-TOF,C18,positive,plasma
-MTBLS354,m_cap_metabolite_profiling_mass_spectrometry_v2_maf,LC,Agilent 6540 Q-TOF,C18,positive,plasma
-MTBLS354,m_cap_metabolite_profiling_mass_spectrometry-1_v2_maf,LC,Agilent 6540 Q-TOF,C18,negative,plasma
-MTBLS364,IPO_aligned_MTBLS364_hil_neg,LC,Waters Xevo G2 QTof,HILIC,negative,serum
-MTBLS364,IPO_aligned_MTBLS364_hil_pos,LC,Waters Xevo G2 QTof,HILIC,positive,serum
-MTBLS364,IPO_aligned_MTBLS364_lip_neg,LC,Waters Xevo G2 QTof,C18,negative,serum
-MTBLS364,IPO_aligned_MTBLS364_lip_pos,LC,Waters Xevo G2 QTof,C18,positive,serum
-ST000578,IPO_aligned_ST000578_AE,LC,Thermo LTQ-FT Velos Orbitrap,Anion Exchange,positive,plasma
-ST000578,IPO_aligned_ST000578_C18,LC,Thermo LTQ-FT Velos Orbitrap,C18,positive,plasma
-ST000578,AN000888,LC,Thermo LTQ-FT Velos Orbitrap,C18,positive,plasma
-ST000578,AN000889,LC,Thermo LTQ-FT Velos Orbitrap,Anion Exchange,positive,plasma
-MTBLS665,m_huc_c18neg,LC,Q Exactive HF,C18,negative,plasma
-MTBLS665,m_huc_hilicpos,LC,Q Exactive HF,HILIC,positive,plasma
-MTBLS665,IPO_aligned_MTBLS665_c18,LC,Q Exactive HF,C18,negative,plasma
-MTBLS665,IPO_aligned_MTBLS665_hilic,LC,Q Exactive HF,HILIC,positive,plasma
-ST000763,AN001201,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001201_0_Healthy,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001201_4_PAH,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001201_1_LowRisk,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001201_2_Normal Pressures,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001201_3_Borderline Pressures,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,AN001202,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,AN001202_0_Healthy,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,AN001202_4_PAH,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,AN001202_1_LowRisk,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,AN001202_2_Normal Pressures,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,AN001202_3_Borderline Pressures,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_neg,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_neg_0_Healthy,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_neg_4_PAH,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_neg_1_LowRisk,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_neg_2_Normal Pressures,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_neg_3_Borderline Pressures,LC,6530 Q-TOF,C18,negative,plasma
-ST000763,IPO_aligned_ST000763_untar_pos,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_pos_0_Healthy,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_pos_4_PAH,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_pos_1_LowRisk,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_pos_2_Normal Pressures,LC,6530 Q-TOF,C18,positive,plasma
-ST000763,IPO_aligned_ST000763_untar_pos_3_Borderline Pressures,LC,6530 Q-TOF,C18,positive,plasma
-MTBLS408 ,IPO_aligned_MTBLS408_neg,LC,Waters Xevo G2-XS QTof,C18,negative,plasma
-MTBLS408 ,IPO_aligned_MTBLS408_pos,LC,Waters Xevo G2-XS QTof,C18,positive,plasma
-MTBLS315 ,XCMS-Report-annotated-SingleClass-CDF.,GC,Agilent 6890N GC,5% phenyl-methyl silica,positive,plasma
-MTBLS315 ,XCMS-Report-annotated-SingleClass-n_mzML.,LC,LTQ Orbitrap,C18,negative,plasma
-MTBLS315 ,IPO_aligned_MTBLS315_mzData,GC,Agilent 6890N GC,5% phenyl-methyl silica,positive,plasma
-MTBLS315 ,IPO_aligned_MTBLS315_mzXML,LC,Agilent 6550 iFunnel Q-TOF,C8,positive,plasma
-MTBLS315 ,IPO_aligned_MTBLS315_n_mzML,LC,LTQ Orbitrap,C18,negative,plasma
-MTBLS315 ,IPO_aligned_MTBLS315_p_mzML,LC,LTQ Orbitrap,C18,positive,plasma
-MTBLS315 ,m_GC_nmfi_and_bsi_diagnosis_v2_maf,GC,Agilent 6890N GC,5% phenyl-methyl silica,positive,plasma
-MTBLS315 ,m_LC_nmfi_and_bsi_diagnosis_v2_maf,LC,Agilent 6550 iFunnel Q-TOF,C8,positive,plasma
-MTBLS315 ,m_UPLC_NEG_nmfi_and_bsi_diagnosis_v2_maf,LC,LTQ Orbitrap,C18,negative,plasma
-MTBLS315 ,m_UPLC_POS_nmfi_and_bsi_diagnosis_v2_maf,LC,LTQ Orbitrap,C18,positive,plasma
-MTBLS146,IPO_aligned_MTBLS146_global_neg,LC,LTQ Orbitrap Velos,C18,negative,plasma
-MTBLS146,IPO_aligned_MTBLS146_global_pos,LC,LTQ Orbitrap Velos,C18,positive,plasma
-ST000291,AN000464,LC,orbitrap,C18-PFP,positive,urine
-ST000291,AN000465,LC,orbitrap,C18-PFP,negative,urine
-ST000292,AN000466,LC,orbitrap,C18-PFP,positive,urine
-ST000292,AN000467,LC,orbitrap,C18-PFP,negative,urine
-ST000063 ,AN000101,GC,Leco GC-TOF,silica,positive,CSF
-ST000063 ,XCMS-Report-annotated-SingleClass-GCTOF.,GC,Leco GC-TOF,silica,positive,CSF
-ST000063 ,XCMS-Report-annotated-SingleClass.,GC,Leco GC-TOF,silica,positive,CSF
-MTBLS20,IPO_aligned_MTBLS20_439020_neg,LC,LTQ Orbitrap Discovery,C18,negative,urine
-MTBLS20,IPO_aligned_MTBLS20_439020_pos,LC,LTQ Orbitrap Discovery,C18,positive,urine
-MTBLS20,a_439033neg_LCMS_metid_urine,LC,LTQ Orbitrap Discovery,C18,negative,urine
-MTBLS20,a_439033pos_LCMS_metid_urine,LC,LTQ Orbitrap Discovery,C18,positive,urine
-MTBLS404,QC1,LC,LTQ Orbitrap Discovery,C18,negative,urine
-MTBLS404,IPO_aligned_MTBLS404_neg,LC,LTQ Orbitrap Discovery,C18,negative,urine
-MTBLS264,Volunteer4_RBC_24hVolunteer4_RBC_24h_NEG,LC,LTQ Orbitrap,HILIC,negative,RBC
-MTBLS264,Volunteer4_RBC_24hVolunteer4_blood_24h_NEG,LC,LTQ Orbitrap,HILIC,negative,blood
-MTBLS264,Volunteer4_RBC_24hVolunteer4_plasma_24h_NEG,LC,LTQ Orbitrap,HILIC,negative,plasma
-MTBLS264,IPO_aligned_MTBLS264_blood_neg,LC,LTQ Orbitrap,HILIC,negative,blood
-MTBLS264,IPO_aligned_MTBLS264_plasma_neg,LC,LTQ Orbitrap,HILIC,negative,plasma
-MTBLS264,IPO_aligned_MTBLS264_rbc_neg,LC,LTQ Orbitrap,HILIC,negative,RBC
-MTBLS264,Volunteer4_RBC_24hVolunteer4_RBC_24h_POS,LC,LTQ Orbitrap,HILIC,positive,RBC
-MTBLS264,Volunteer4_RBC_24hVolunteer4_blood_24h_POS,LC,LTQ Orbitrap,HILIC,positive,blood
-MTBLS264,Volunteer4_RBC_24hVolunteer4_plasma_24h_POS,LC,LTQ Orbitrap,HILIC,positive,plasma
-MTBLS264,IPO_aligned_MTBLS264_blood_pos,LC,LTQ Orbitrap,HILIC,positive,blood
-MTBLS264,IPO_aligned_MTBLS264_plasma_pos,LC,LTQ Orbitrap,HILIC,positive,plasma
-MTBLS264,IPO_aligned_MTBLS264_rbc_pos,LC,LTQ Orbitrap,HILIC,positive,RBC
-MTBLS266,m_mtbls266_NEG_mass_spectrometry_v2_maf,LC,LTQ Orbitrap,HILIC,negative,plasma
-MTBLS266,IPO_aligned_MTBLS266_neg,LC,LTQ Orbitrap,HILIC,negative,plasma
-MTBLS266,m_mtbls266_POS_mass_spectrometry_v2_maf,LC,LTQ Orbitrap,HILIC,positive,plasma
-MTBLS266,IPO_aligned_MTBLS266_pos,LC,LTQ Orbitrap,HILIC,positive,plasma
-MTBLS148,IPO_aligned_MTBLS148_neg,LC,LTQ Orbitrap Discovery,C18,negative,urine
-MTBLS148,IPO_aligned_MTBLS148_pos,LC,LTQ Orbitrap Discovery,C18,positive,urine
-ST000397,AN000634,GC,Pegasus III GC-TOFMS,silica,positive,plasma
-ST000397,IPO_aligned_ST000397_pos,GC,Pegasus III GC-TOFMS,silica,positive,plasma
-MTBLS191,IPO_aligned_MTBLS191,GC,Agilent 5975C MSD,5% phenyl-methyl silica,positive,plasma
-MTBLS218,IPO_aligned_MTBLS218,LC,Q Exactive,HILIC,alternating,serum
-MTBLS200,IPO_aligned_MTBLS200_dilute ,GC,Waters GCT Premier,Phenyl Arylene,positive,serum
-MTBLS200,IPO_aligned_MTBLS200_not_dilute ,GC,Waters GCT Premier,Phenyl Arylene,positive,serum
-MTBLS423,Author data,LC,Agilent 6550 iFunnel Q-TOF,HILIC,positive,plasma
-MTBLS423,IPO_aligned_MTBLS423,LC,Agilent 6550 iFunnel Q-TOF,HILIC,positive,plasma
-ST000726,IPO_aligned_ST000726_neg,LC,6530 Q-TOF LC/MS,C18,negative,plasma
-ST000726,IPO_aligned_ST000726_pos,LC,6530 Q-TOF LC/MS,C18,positive,plasma
-ST000726,AN001138-Negative,LC,6530 Q-TOF LC/MS,C18,negative,plasma
-ST000726,AN001139-Positive,LC,6530 Q-TOF LC/MS,C18,positive,plasma
-ST000383,AN000618,GC,LECO Pegasus IV,silica,positive,plasma
-MTBLS579 ,m_typhoid_carriage_metabolite_profiling_mass_spectrometry_v2_maf,GC,LECO pegasus 4d,50% Phenyl Polysilphenylene-siloxane,positive,plasma
-ST000284,AN000452,LC,Agilent 1260-AB Sciex 5500,HILIC,NA,serum
-ST000284,AN000452_0_Healthy,LC,Agilent 1260-AB Sciex 5500,HILIC,NA,serum
-ST000284,AN000452_1_CRC,LC,Agilent 1260-AB Sciex 5500,HILIC,NA,serum
-ST000284,AN000452_2_Polyp,LC,Agilent 1260-AB Sciex 5500,HILIC,NA,serum
-ST000450,AN000705,LC,Qtrap 5500 Triple quadrupol,HILIC,positive,plasma
-ST000450,AN000706,LC,Qtrap 5500 Triple quadrupol,HILIC,negative,plasma
-ST000888,AN001450,LC,Agilent 6250 - qTOF,C8,positive,serum
-ST000918,AN001503,GC,Agilent 5973 - single quad,5% phenyl silica,positive,plasma
-ST000355,AN000580,GC,LECO-Pegasus HT TOF MS,silica,positive,plasma
-ST000355,AN000581,LC,Agilent 6220 MSD,C18,NA,plasma
-ST000356,AN000582,GC,LECO-Pegasus HT TOF MS,silica,positive,serum
-ST000356,AN000583,LC,Agilent 6220 MSD,C18,NA,serum
-MTBLS253,m_oxylipin_chronic_hep_b,LC,Agilent 6460 Triple Quadrupole,C18,negative,serum
-MTBLS279,m_chronic_hep_b_NEG,LC,Waters ACQUITY UPLC system,C18,negative,serum
-MTBLS279,m_chronic_hep_b_POS,LC,Waters ACQUITY UPLC system,C18,positive,serum
-Feng,plasmaall_author,LC,LTQ orbitrap,C18,positive,plasma
-Feng,urineall_author,LC,LTQ orbitrap,C18,positive,urine
-Feng,plasma,LC,LTQ orbitrap,C18,positive,plasma
-Feng,urine,LC,LTQ orbitrap,C18,positive,urine
-Feng,serum_onebatch_IPO_align_Feng_serum_all,LC,LTQ orbitrap,C18,positive,plasma
-Feng,urine_onebatch_IPO_aligned_Feng_urine_all,LC,LTQ orbitrap,C18,positive,urine
-Feng,serum_IPO_aligned_Feng_serum_batch1,LC,LTQ orbitrap,C18,positive,plasma
-Feng,serum_IPO_aligned_Feng_serum_batch2,LC,LTQ orbitrap,C18,positive,plasma
-Feng,urine_IPO_aligned_Feng_urine_batch1,LC,LTQ orbitrap,C18,positive,urine
-Feng,urine_IPO_aligned_Feng_urine_batch2,LC,LTQ orbitrap,C18,positive,urine
-snyder,IPO_aligned_snyderome_b1_neg,LC,Agilent 6538 accurate mass Q-TOF MS,alkyl,negative,serum
-snyder,IPO_aligned_snyderome_b2_neg,LC,Agilent 6538 accurate mass Q-TOF MS,alkyl,negative,serum
-MTBLS358,m_CER_mass_spectrometry_v4,LC,AB SCIEX QTRAP 5500,C18,positive,serum
-MTBLS358,m_CER_mass_spectrometry_v4_3_CS,LC,AB SCIEX QTRAP 5500,C18,positive,serum
-MTBLS358,m_CER_mass_spectrometry_v4_0_NS,LC,AB SCIEX QTRAP 5500,C18,positive,serum
-MTBLS358,m_CER_mass_spectrometry_v4_2_FS,LC,AB SCIEX QTRAP 5500,C18,positive,serum
-MTBLS358,m_CER_mass_spectrometry_v4_1_COPD,LC,AB SCIEX QTRAP 5500,C18,positive,serum
-MTBLS358,m_EICO_mass_spectrometry_v4,LC,AB SCIEX QTRAP 5500,C18,negative,serum
-MTBLS358,m_EICO_mass_spectrometry_v4_3_CS,LC,AB SCIEX QTRAP 5500,C18,negative,serum
-MTBLS358,m_EICO_mass_spectrometry_v4_0_NS,LC,AB SCIEX QTRAP 5500,C18,negative,serum
-MTBLS358,m_EICO_mass_spectrometry_v4_2_FS,LC,AB SCIEX QTRAP 5500,C18,negative,serum
-MTBLS358,m_EICO_mass_spectrometry_v4_1_COPD,LC,AB SCIEX QTRAP 5500,C18,negative,serum
-MTBLS358,m_SHOT_mass_spectrometry_v4,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
-MTBLS358,m_SHOT_mass_spectrometry_v4_3_CS,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
-MTBLS358,m_SHOT_mass_spectrometry_v4_0_NS,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
-MTBLS358,m_SHOT_mass_spectrometry_v4_2_FS,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
-MTBLS358,m_SHOT_mass_spectrometry_v4_1_COPD,LC,AB SCIEX QTRAP 5500,chip infusion,both,serum
-MTBLS358,m_TAG_mass_spectrometry_v4,LC,AB SCIEX QTRAP 5500,NA,positive,serum
-MTBLS358,m_TAG_mass_spectrometry_v4_3_CS,LC,AB SCIEX QTRAP 5500,NA,positive,serum
-MTBLS358,m_TAG_mass_spectrometry_v4_0_NS,LC,AB SCIEX QTRAP 5500,NA,positive,serum
-MTBLS358,m_TAG_mass_spectrometry_v4_2_FS,LC,AB SCIEX QTRAP 5500,NA,positive,serum
-MTBLS358,m_TAG_mass_spectrometry_v4_1_COPD,LC,AB SCIEX QTRAP 5500,NA,positive,serum
-ST000608,AN000929,LC,Velos Orbitrap Pro,C18,positive,DBS-serum
-ST000608,AN000930,LC,Velos Orbitrap Pro,C18,negative,DBS-serum
-ST000608,AN000931,GC,Agilent GC 7890A,5% phenyl-methyl silica,both,DBS-serum
+Accession	analysis	Instrument_category	Instument	column	mode	type	time_unit	delta_time
+ST000389	AN000625_GC	GC	Pegasus III GC-TOFMS	silica	positive	serum	NaN	NaN
+ST000389	IPO_aligned_ST000388_GC	GC	Pegasus III GC-TOFMS	silica	positive	serum	s	2
+ST000388	AN000624_LC	LC	Agilent 6530 Accurate Mass QTOF	HILIC	positive	serum	m	0.033333333333333
+ST000388	IPO_aligned_ST000388_LC	LC	Agilent 6530 Accurate Mass QTOF	HILIC	positive	serum	s	2
+MTBLS28	m_mtbls28_POS_v2_maf	LC	Waters Xevo Q-Tof Premier	C18	positive	urine	s	2
+MTBLS28	m_mtbls28_NEG_v2_maf	LC	Waters Xevo Q-Tof Premier	C18	negative	urine	s	2
+MTBLS28	IPO_aligned_MTBLS28_pos	LC	Waters Xevo Q-Tof Premier	C18	positive	urine	s	2
+MTBLS28	IPO_aligned_MTBLS28_neg	LC	Waters Xevo Q-Tof Premier	C18	negative	urine	s	2
+ST000392	IPO_aligned_ST000392_serum_12_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_15-25_peakwidth	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_1e-1_mzdiff	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_1e-4_mzdiff	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_1_5_profstep	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_2000_noise	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_2e-1_mzwid	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_2e-3_mzwid	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_4-10_peakwidth	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_4_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_5e-1_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_serum_5e-1_profstep	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000392	IPO_aligned_ST000392_plasma_12_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_15-25_peakwidth	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_1e-1_prefilt	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_1e-4_prefilt	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_1_5_profstep	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_2000_noise	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_2e-1_mzwid	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_2e-3_mzwid	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_4-10_peakwidth	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_4_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_5e-1_bw	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_plasma_5e-1_profstep	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	AN000628_plasma	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	NaN	NaN
+ST000392	AN000628_serum	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	NaN	NaN
+ST000392	IPO_aligned_ST000392_plasma	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000392	IPO_aligned_ST000392_serum	GC	Agilent 6890 GC (ion trap)	silica	positive	serum	s	2
+ST000396	AN000633	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	NaN	NaN
+ST000396	IPO_aligned_ST000396	GC	Agilent 6890 GC (ion trap)	silica	positive	plasma	s	2
+ST000385	IPO_aligned_ST000385_adc1_plasma	GC	Agilent 6890 GC - LECO Pegasus IV	silica	positive	plasma	s	2
+ST000385	IPO_aligned_ST000385_adc1_serum	GC	Agilent 6890 GC - LECO Pegasus IV	silica	positive	serum	s	2
+ST000385	IPO_aligned_ST000385_adc2_plasma	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	plasma	s	2
+ST000385	IPO_aligned_ST000385_adc2_serum	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	serum	s	2
+ST000385	AN000603_plasma	GC	Agilent 6890 GC - LECO Pegasus IV	silica	positive	plasma	NaN	NaN
+ST000385	AN000603_serum	GC	Agilent 6890 GC - LECO Pegasus IV	silica	positive	serum	NaN	NaN
+ST000385	AN000620_plasma	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	plasma	NaN	NaN
+ST000385	AN000620_serum	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	serum	NaN	NaN
+ST000385	IPO_aligned_ST000385_onebatch_plasma	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	plasma	s	2
+ST000385	IPO_aligned_ST000385_onebatch_serum	GC	Agilent 6890 GC - LECO GC TOF	silica	positive	serum	s	2
+MTBLS92	IPO_aligned_MTBLS92	LC	Q-Tof Premier (Waters)	C18	positive	serum	s	2
+MTBLS92	Author_data	LC	Q-Tof Premier (Waters)	C18	positive	serum	s	2
+ST000865	IPO_aligned_ST000865_onebatch	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	s	2
+ST000865	IPO_aligned_ST000865_batch2	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	s	2
+ST000865	IPO_aligned_ST000865_batch3	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	s	2
+ST000865	IPO_aligned_ST000865_batch2_raw	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	s	2
+ST000865	IPO_aligned_ST000865_batch3_raw	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	s	2
+ST000865	AN001390	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	m	0.033333333333333
+ST000865	AN001390all_author	GC	Agilent 5975C MSD - single quad	Phenyl Arylene	positive	plasma	m	0.033333333333333
+MTBLS17	IPO_aligned_MTBLS17_negall_12_bw	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_15_ppm	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_1e-1_mzwid	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_1e-4_mzdiff	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_2000_noise	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_25e-3_mzwid	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_3e-2_mzdiff	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_3e-3_mzdiff	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_3_10_peakwidth	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_3_30_peakwidth	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_3_90_peakwidth	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_4_bw	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_5e-1_profstep	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_88e-2_bw	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_guess-opt_-1e-4_mzdiff	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_negall_guess-opt_1e-3_mzdiff	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_neg_onebatch	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_neg_exp1	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_neg_exp2	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_neg_exp3	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	Peaklist_EXP1_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	Peaklist_EXP2_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	Peaklist_EXP3_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_pos_onebatch	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_pos_exp1	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_pos_exp2	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	IPO_aligned_MTBLS17_pos_exp3	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	Peaklist_EXP1_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	Peaklist_EXP2_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS17	Peaklist_EXP3_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	Exp1F_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	Exp1R_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	Exp2F_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	Exp2R_NEG	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_all_F_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_all_R_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_all_F_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_all_R_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_exp1_F	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_exp1_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_exp2_F	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_neg_exp2_R	LC	Waters Q-Tof Premier	C18	negative	serum	s	2
+MTBLS19	Exp1F_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	Exp1R_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	Exp2F_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	Exp2R_POS	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_exp2_R	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_exp2_F	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_exp1_R	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS19	IPO_aligned_MTBLS19_pos_exp1_F	LC	Waters Q-Tof Premier	C18	positive	serum	s	2
+MTBLS105	IPO_aligned_MTBLS105_qMS	GC	Agilent 5975C MSD	Phenyl Arylene	positive	plasma	s	2
+MTBLS105	IPO_aligned_MTBLS105_SIM-MS	GC	Agilent 5975C MSD	Phenyl Arylene	positive	plasma	s	2
+MTBLS105	a_mtbls105_GC_TOF_mass_spectrometry	GC	LECO Pegasus	silica	positive	plasma	s	2
+ST000421	13jan12_57-r0-Poor glycemic control	LC	Agilent 6220 ToF MS	HILIC	positive	plasma	NaN	NaN
+ST000421	09feb12_57-r0-Poor glycemic control	LC	Agilent 6220 ToF MS	HILIC	negative	plasma	NaN	NaN
+ST000421	16feb12_57-r0-Poor glycemic control	LC	Agilent 6220 ToF MS	C18	positive	plasma	NaN	NaN
+ST000421	14feb12_57-r0-Poor glycemic control	LC	Agilent 6220 ToF MS	C18	negative	plasma	NaN	NaN
+ST000421	10jan12_62-r0-Good glycemic control	LC	Agilent 6220 ToF MS	HILIC	postiive	plasma	NaN	NaN
+ST000421	08feb12_62-r0-Good glycemic control	LC	Agilent 6220 ToF MS	HILIC	negative	plasma	NaN	NaN
+ST000421	15feb12_62-r0-Good glycemic control 	LC	Agilent 6220 ToF MS	C18	positive	plasma	NaN	NaN
+ST000421	13feb12_62-r0-Good glycemic control 	LC	Agilent 6220 ToF MS	C18	negative	plasma	NaN	NaN
+ST000421	IPO_aligned_ST000421_n_hil	LC	Agilent 6220 ToF MS	HILIC	negative	plasma	NaN	NaN
+ST000421	IPO_aligned_ST000421_p_hil	LC	Agilent 6220 ToF MS	HILIC	positive	plasma	NaN	NaN
+ST000421	IPO_aligned_ST000421_nc18	LC	Agilent 6220 ToF MS	C18	negative	plasma	NaN	NaN
+ST000421	IPO_aligned_ST000421_pc18	LC	Agilent 6220 ToF MS	C18	positive	plasma	NaN	NaN
+ST000045	02Feb10-21-r0_ND_II	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	02Feb10-21-r0_ND_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	02Feb10-21-r0_II_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_ND_II	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_ND_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_II_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11March10-21-_ND_II	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	11March10-21-_ND_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	11March10-21-_II_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-_ND_II	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-_ND_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-_II_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	IPO_aligned_ST000045_2feb_pos_ND_II	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_2feb_pos_ND_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_2feb_pos_II_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_ND_II	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_ND_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_II_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_ND_II	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_ND_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_II_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_ND_II	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_ND_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_II_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	02Feb10-21-r0	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	02Feb10-21-r0_1_II	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	02Feb10-21-r0_0_ND	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	02Feb10-21-r0_2_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	m	0.033333333333333
+ST000045	11March10-21-r0	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11March10-21-r0_1_II	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11March10-21-r0_0_ND	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11March10-21-r0_2_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_1_II	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_0_ND	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	11Feb10-21-r0_2_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-r0	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-r0_1_II	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-r0_0_ND	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	17March10-21-r0_2_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	m	0.033333333333333
+ST000045	IPO_aligned_ST000045_2feb_pos	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_2feb_pos_1_II	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_2feb_pos_0_ND	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_2feb_pos_2_IW	LC	Agilent 6220 TOF MS	C18	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_1_II	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_0_ND	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11mar_pos_2_IW	LC	Agilent 6220 TOF MS	HILIC	positive	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_1_II	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_0_ND	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_11feb_neg_2_IW	LC	Agilent 6220 TOF MS	C18	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_1_II	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_0_ND	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+ST000045	IPO_aligned_ST000045_17mar_neg_2_IW	LC	Agilent 6220 TOF MS	HILIC	negative	plasma	s	2
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_0_NGT	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_1_T2D	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_2_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_0_NGT	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_1_T2D	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_2_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_T2D_NGT	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_T2D_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_neg-norm-metaboAnalystInput_NGT_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_T2D_NGT	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_T2D_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	DEMO_pos-norm-metaboAnalystInput_NGT_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	m	0.033333333333333
+MTBLS352 	IPO_aligned_MTBLS352_neg_T2D_NGT	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg_T2D_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg_NGT_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg_0_NGT	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg_1_T2D	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	s	2
+MTBLS352 	IPO_aligned_MTBLS352_neg_2_Pre-DM	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	s	2
+ST000381	IPO_aligned_ST000381_pos	GC	Pegasus III GC-TOFMS	silica	positive	urine	s	2
+ST000381	AN000615	GC	Pegasus III GC-TOFMS	silica	positive	urine	NaN	NaN
+ST000381	AN000616	LC	Agilent 6530 Accurate Mass QTOF	C18	positive	urine	m	0.033333333333333
+ST000381	AN000617	LC	Agilent 6530 Accurate Mass QTOF	C18	negative	urine	m	0.033333333333333
+ST000046 	AN000076_CN_MCI	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000076_CN_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000076_MCI_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_CN_MCI	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_CN_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_MCI_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000078_CN_MCI	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000078_CN_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000078_MCI_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_CN_MCI	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_CN_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_MCI_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_CN_MCI	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_CN_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_MCI_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_CN_MCI	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_CN_AD	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_MCI_AD	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_CN_MCI	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_CN_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_MCI_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_CN_MCI	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_CN_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_MCI_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_CN_MCI	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_CN_AD	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_MCI_AD	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_CN_MCI	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_CN_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_MCI_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_CN_MCI	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_CN_AD	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_MCI_AD	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_CN_MCI	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_CN_AD	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_MCI_AD	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	AN000076	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000076_0_CN	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000076_2_MCI	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000076_1_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	m	0.033333333333333
+ST000046 	AN000077	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_0_CN	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_2_MCI	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000077_1_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	AN000078	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000078_0_CN	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000078_2_MCI	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000078_1_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	m	0.033333333333333
+ST000046 	AN000079	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_0_CN	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_2_MCI	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	AN000079_1_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_0_CN	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_2_MCI	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.04jun12_1_AD	LC	Agilent 6220 TOF M	HILIC	positive	plasma	m	0.033333333333333
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_0_CN	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_2_MCI	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120606_neg_hilic_1_AD	LC	Agilent 6220 TOF M	HILIC	negative	plasma	s	2
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_0_CN	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_2_MCI	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.11jun12_1_AD	LC	Agilent 6220 TOF M	HILIC	positive	CSF	m	0.033333333333333
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_0_CN	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_2_MCI	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120613_neg_hilic_1_AD	LC	Agilent 6220 TOF M	HILIC	negative	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_0_CN	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_2_MCI	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120618_pos_c18_1_AD	LC	Agilent 6220 TOF M	C18	positive	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_0_CN	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_2_MCI	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120620_neg_c18_1_AD	LC	Agilent 6220 TOF M	C18	negative	plasma	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_0_CN	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_2_MCI	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	IPO_aligned_ST000046_20120625_pos_c18_1_AD	LC	Agilent 6220 TOF M	C18	positive	CSF	s	2
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_0_CN	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_2_MCI	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+ST000046 	XCMS-Report-annotated-SingleClass.27jun12_1_AD	LC	Agilent 6220 TOF M	C18	negative	CSF	m	0.033333333333333
+MTBLS72	IPO_aligned_MTBLS72_neg	LC	Waters Xevo G2 QTof	C18	negative	plasma	s	2
+MTBLS72	IPO_aligned_MTBLS72_pos	LC	Waters Xevo G2 QTof	C18	positive	plasma	s	2
+ST000329 	AN000525_MCD_FSGS	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000525_MCD_Control	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000525_FSGS_Control	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000526_MCD_FSGS	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	AN000526_MCD_Control	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	AN000526_FSGS_Control	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	IPO_aligned_ST000329_pos_MCD_FSGS	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos_MCD_Control	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos_FSGS_Control	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_MCD_FSGS	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_MCD_Control	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_FSGS_Control	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos_0_Control	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos_2_FSGS	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_pos_1_MCD	LC	Agilent 6530 QTOF	C18	positive	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_0_Control	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_2_FSGS	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	IPO_aligned_ST000329_neg_1_MCD	LC	Agilent 6530 QTOF	C18	negative	urine	s	2
+ST000329 	AN000525	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000525_0_Control	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000525_2_FSGS	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000525_1_MCD	LC	Agilent 6530 QTOF	C18	positive	urine	m	0.033333333333333
+ST000329 	AN000526	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	AN000526_0_Control	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	AN000526_2_FSGS	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+ST000329 	AN000526_1_MCD	LC	Agilent 6530 QTOF	C18	negative	urine	m	0.033333333333333
+MTBLS354	IPO_aligned_MTBLS354_neg	LC	Agilent 6540 Q-TOF	C18	negative	plasma	s	2
+MTBLS354	IPO_aligned_MTBLS354_pos	LC	Agilent 6540 Q-TOF	C18	positive	plasma	s	2
+MTBLS354	m_cap_metabolite_profiling_mass_spectrometry_v2_maf	LC	Agilent 6540 Q-TOF	C18	positive	plasma	m	0.033333333333333
+MTBLS354	m_cap_metabolite_profiling_mass_spectrometry-1_v2_maf	LC	Agilent 6540 Q-TOF	C18	negative	plasma	m	0.033333333333333
+MTBLS364	IPO_aligned_MTBLS364_hil_neg	LC	Waters Xevo G2 QTof	HILIC	negative	serum	s	2
+MTBLS364	IPO_aligned_MTBLS364_hil_pos	LC	Waters Xevo G2 QTof	HILIC	positive	serum	s	2
+MTBLS364	IPO_aligned_MTBLS364_lip_neg	LC	Waters Xevo G2 QTof	C18	negative	serum	s	2
+MTBLS364	IPO_aligned_MTBLS364_lip_pos	LC	Waters Xevo G2 QTof	C18	positive	serum	s	2
+ST000578	IPO_aligned_ST000578_AE	LC	Thermo LTQ-FT Velos Orbitrap	Anion Exchange	positive	plasma	s	2
+ST000578	IPO_aligned_ST000578_C18	LC	Thermo LTQ-FT Velos Orbitrap	C18	positive	plasma	s	2
+ST000578	AN000888	LC	Thermo LTQ-FT Velos Orbitrap	C18	positive	plasma	s	2
+ST000578	AN000889	LC	Thermo LTQ-FT Velos Orbitrap	Anion Exchange	positive	plasma	s	2
+MTBLS665	m_huc_c18neg	LC	Q Exactive HF	C18	negative	plasma	NaN	NaN
+MTBLS665	m_huc_hilicpos	LC	Q Exactive HF	HILIC	positive	plasma	NaN	NaN
+MTBLS665	IPO_aligned_MTBLS665_c18	LC	Q Exactive HF	C18	negative	plasma	NaN	NaN
+MTBLS665	IPO_aligned_MTBLS665_hilic	LC	Q Exactive HF	HILIC	positive	plasma	NaN	NaN
+ST000763	AN001201_Healthy_PAH	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Healthy_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Healthy_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Healthy_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_PAH_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_PAH_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_PAH_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Normal Pressures_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Normal Pressures_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_Borderline Pressures_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001202_Healthy_PAH	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Healthy_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Healthy_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Healthy_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_PAH_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_PAH_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_PAH_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Normal Pressures_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Normal Pressures_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_Borderline Pressures_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	IPO_aligned_ST000763_untar_pos_Healthy_PAH	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Healthy_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Healthy_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Healthy_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_PAH_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_PAH_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_PAH_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Normal Pressures_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Normal Pressures_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_Borderline Pressures_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Healthy_PAH	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Healthy_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Healthy_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Healthy_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_PAH_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_PAH_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_PAH_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Normal Pressures_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Normal Pressures_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_Borderline Pressures_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	AN001201	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_0_Healthy	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_4_PAH	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_1_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_2_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001201_3_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	m	0.033333333333333
+ST000763	AN001202	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_0_Healthy	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_4_PAH	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_1_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_2_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	AN001202_3_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	m	0.033333333333333
+ST000763	IPO_aligned_ST000763_untar_neg	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_0_Healthy	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_4_PAH	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_1_LowRisk	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_2_Normal Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_neg_3_Borderline Pressures	LC	6530 Q-TOF	C18	negative	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_0_Healthy	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_4_PAH	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_1_LowRisk	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_2_Normal Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+ST000763	IPO_aligned_ST000763_untar_pos_3_Borderline Pressures	LC	6530 Q-TOF	C18	positive	plasma	s	2
+MTBLS408 	IPO_aligned_MTBLS408_neg	LC	Waters Xevo G2-XS QTof	C18	negative	plasma	s	2
+MTBLS408 	IPO_aligned_MTBLS408_pos	LC	Waters Xevo G2-XS QTof	C18	positive	plasma	s	2
+MTBLS315 	XCMS-Report-annotated-SingleClass-CDF.	GC	Agilent 6890N GC	5% phenyl-methyl silica	positive	plasma	s	2
+MTBLS315 	XCMS-Report-annotated-SingleClass-n_mzML.	LC	LTQ Orbitrap	C18	negative	plasma	s	2
+MTBLS315 	IPO_aligned_MTBLS315_mzData	GC	Agilent 6890N GC	5% phenyl-methyl silica	positive	plasma	s	2
+MTBLS315 	IPO_aligned_MTBLS315_mzXML	LC	Agilent 6550 iFunnel Q-TOF	C8	positive	plasma	s	2
+MTBLS315 	IPO_aligned_MTBLS315_n_mzML	LC	LTQ Orbitrap	C18	negative	plasma	s	2
+MTBLS315 	IPO_aligned_MTBLS315_p_mzML	LC	LTQ Orbitrap	C18	positive	plasma	s	2
+MTBLS315 	m_GC_nmfi_and_bsi_diagnosis_v2_maf	GC	Agilent 6890N GC	5% phenyl-methyl silica	positive	plasma	s	2
+MTBLS315 	m_LC_nmfi_and_bsi_diagnosis_v2_maf	LC	Agilent 6550 iFunnel Q-TOF	C8	positive	plasma	s	2
+MTBLS315 	m_UPLC_NEG_nmfi_and_bsi_diagnosis_v2_maf	LC	LTQ Orbitrap	C18	negative	plasma	s	2
+MTBLS315 	m_UPLC_POS_nmfi_and_bsi_diagnosis_v2_maf	LC	LTQ Orbitrap	C18	positive	plasma	s	2
+MTBLS146	IPO_aligned_MTBLS146_global_neg	LC	LTQ Orbitrap Velos	C18	negative	plasma	NaN	NaN
+MTBLS146	IPO_aligned_MTBLS146_global_pos	LC	LTQ Orbitrap Velos	C18	positive	plasma	NaN	NaN
+ST000291	AN000464	LC	orbitrap	C18-PFP	positive	urine	NaN	NaN
+ST000291	AN000465	LC	orbitrap	C18-PFP	negative	urine	NaN	NaN
+ST000292	AN000466	LC	orbitrap	C18-PFP	positive	urine	NaN	NaN
+ST000292	AN000467	LC	orbitrap	C18-PFP	negative	urine	NaN	NaN
+ST000062	AN000100	GC	Leco GC-TOF	silica	positive	plasma	NaN	NaN
+ST000062	XCMS-Report-annotated-SingleClass-GCTOF.plasma	GC	Leco GC-TOF	silica	positive	plasma	m	0.033333333333333
+ST000063	AN000101	GC	Leco GC-TOF	silica	positive	CSF	NaN	NaN
+ST000063 	XCMS-Report-annotated-SingleClass-GCTOF.	GC	Leco GC-TOF	silica	positive	CSF	m	0.033333333333333
+MTBLS20	IPO_aligned_MTBLS20_439020_neg	LC	LTQ Orbitrap Discovery	C18	negative	urine	NaN	NaN
+MTBLS20	IPO_aligned_MTBLS20_439020_pos	LC	LTQ Orbitrap Discovery	C18	positive	urine	NaN	NaN
+MTBLS20	a_439033neg_LCMS_metid_urine	LC	LTQ Orbitrap Discovery	C18	negative	urine	NaN	NaN
+MTBLS20	a_439033pos_LCMS_metid_urine	LC	LTQ Orbitrap Discovery	C18	positive	urine	NaN	NaN
+MTBLS404	QC1	LC	LTQ Orbitrap Discovery	C18	negative	urine	NaN	NaN
+MTBLS404	IPO_aligned_MTBLS404_neg	LC	LTQ Orbitrap Discovery	C18	negative	urine	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_RBC_24h_NEG	LC	LTQ Orbitrap	HILIC	negative	RBC	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_blood_24h_NEG	LC	LTQ Orbitrap	HILIC	negative	blood	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_plasma_24h_NEG	LC	LTQ Orbitrap	HILIC	negative	plasma	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_blood_neg	LC	LTQ Orbitrap	HILIC	negative	blood	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_plasma_neg	LC	LTQ Orbitrap	HILIC	negative	plasma	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_rbc_neg	LC	LTQ Orbitrap	HILIC	negative	RBC	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_RBC_24h_POS	LC	LTQ Orbitrap	HILIC	positive	RBC	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_blood_24h_POS	LC	LTQ Orbitrap	HILIC	positive	blood	NaN	NaN
+MTBLS264	Volunteer4_RBC_24hVolunteer4_plasma_24h_POS	LC	LTQ Orbitrap	HILIC	positive	plasma	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_blood_pos	LC	LTQ Orbitrap	HILIC	positive	blood	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_plasma_pos	LC	LTQ Orbitrap	HILIC	positive	plasma	NaN	NaN
+MTBLS264	IPO_aligned_MTBLS264_rbc_pos	LC	LTQ Orbitrap	HILIC	positive	RBC	NaN	NaN
+MTBLS266	m_mtbls266_NEG_mass_spectrometry_v2_maf	LC	LTQ Orbitrap	HILIC	negative	plasma	m	0.033333333333333
+MTBLS266	IPO_aligned_MTBLS266_neg	LC	LTQ Orbitrap	HILIC	negative	plasma	s	2
+MTBLS266	m_mtbls266_POS_mass_spectrometry_v2_maf	LC	LTQ Orbitrap	HILIC	positive	plasma	m	0.033333333333333
+MTBLS266	IPO_aligned_MTBLS266_pos	LC	LTQ Orbitrap	HILIC	positive	plasma	s	2
+MTBLS148	IPO_aligned_MTBLS148_neg	LC	LTQ Orbitrap Discovery	C18	negative	urine	NaN	NaN
+MTBLS148	IPO_aligned_MTBLS148_pos	LC	LTQ Orbitrap Discovery	C18	positive	urine	NaN	NaN
+ST000397	AN000634	GC	Pegasus III GC-TOFMS	silica	positive	plasma	NaN	NaN
+ST000397	IPO_aligned_ST000397_pos	GC	Pegasus III GC-TOFMS	silica	positive	plasma	NaN	NaN
+MTBLS191	IPO_aligned_MTBLS191	GC	Agilent 5975C MSD	5% phenyl-methyl silica	positive	plasma	NaN	NaN
+MTBLS218	IPO_aligned_MTBLS218	LC	Q Exactive	HILIC	alternating	serum	NaN	NaN
+MTBLS200	IPO_aligned_MTBLS200_dilute 	GC	Waters GCT Premier	Phenyl Arylene	positive	serum	NaN	NaN
+MTBLS200	IPO_aligned_MTBLS200_not_dilute 	GC	Waters GCT Premier	Phenyl Arylene	positive	serum	NaN	NaN
+MTBLS423	Author data	LC	Agilent 6550 iFunnel Q-TOF	HILIC	positive	plasma	NaN	NaN
+MTBLS423	IPO_aligned_MTBLS423	LC	Agilent 6550 iFunnel Q-TOF	HILIC	positive	plasma	NaN	NaN
+ST000726	IPO_aligned_ST000726_neg	LC	6530 Q-TOF LC/MS	C18	negative	plasma	NaN	NaN
+ST000726	IPO_aligned_ST000726_pos	LC	6530 Q-TOF LC/MS	C18	positive	plasma	NaN	NaN
+ST000726	AN001138-Negative	LC	6530 Q-TOF LC/MS	C18	negative	plasma	NaN	NaN
+ST000726	AN001139-Positive	LC	6530 Q-TOF LC/MS	C18	positive	plasma	NaN	NaN
+ST000383	AN000618	GC	LECO Pegasus IV	silica	positive	plasma	NaN	NaN
+MTBLS579 	m_typhoid_carriage_metabolite_profiling_mass_spectrometry_v2_maf	GC	LECO pegasus 4d	50% Phenyl Polysilphenylene-siloxane	positive	plasma	NaN	NaN
+ST000284	AN000452	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_0_Healthy	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_1_CRC	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_2_Polyp	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_Healthy_CRC	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_Healthy_Polyp	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000284	AN000452_CRC_Polyp	LC	Agilent 1260-AB Sciex 5500	HILIC	NA	serum	NaN	NaN
+ST000450	AN000705	LC	Qtrap 5500 Triple quadrupol	HILIC	positive	plasma	NaN	NaN
+ST000450	AN000706	LC	Qtrap 5500 Triple quadrupol	HILIC	negative	plasma	NaN	NaN
+ST000888	AN001450	LC	Agilent 6250 - qTOF	C8	positive	serum	m	0.033333333333333
+ST000918	AN001503	GC	Agilent 5973 - single quad	5% phenyl silica	positive	plasma	m	0.033333333333333
+ST000355	AN000580	GC	LECO-Pegasus HT TOF MS	silica	positive	plasma	NaN	NaN
+ST000355	AN000581	LC	Agilent 6220 MSD	C18	NA	plasma	NaN	NaN
+ST000356	AN000582	GC	LECO-Pegasus HT TOF MS	silica	positive	serum	NaN	NaN
+ST000356	AN000583	LC	Agilent 6220 MSD	C18	NA	serum	NaN	NaN
+MTBLS253	m_oxylipin_chronic_hep_b	LC	Agilent 6460 Triple Quadrupole	C18	negative	serum	NaN	NaN
+MTBLS279	m_chronic_hep_b_NEG	LC	Waters ACQUITY UPLC system	C18	negative	serum	NaN	NaN
+MTBLS279	m_chronic_hep_b_POS	LC	Waters ACQUITY UPLC system	C18	positive	serum	NaN	NaN
+Feng	plasmaall_author	LC	LTQ orbitrap	C18	positive	plasma	NaN	NaN
+Feng	urineall_author	LC	LTQ orbitrap	C18	positive	urine	NaN	NaN
+Feng	plasma	LC	LTQ orbitrap	C18	positive	plasma	NaN	NaN
+Feng	urine	LC	LTQ orbitrap	C18	positive	urine	NaN	NaN
+Feng	serum_onebatch_IPO_align_Feng_serum_all	LC	LTQ orbitrap	C18	positive	plasma	s	2
+Feng	urine_onebatch_IPO_aligned_Feng_urine_all	LC	LTQ orbitrap	C18	positive	urine	s	2
+Feng	serum_IPO_aligned_Feng_serum_batch1	LC	LTQ orbitrap	C18	positive	plasma	s	2
+Feng	serum_IPO_aligned_Feng_serum_batch2	LC	LTQ orbitrap	C18	positive	plasma	s	2
+Feng	urine_IPO_aligned_Feng_urine_batch1	LC	LTQ orbitrap	C18	positive	urine	s	2
+Feng	urine_IPO_aligned_Feng_urine_batch2	LC	LTQ orbitrap	C18	positive	urine	s	2
+snyder	IPO_aligned_snyderome_b1_neg	LC	Agilent 6538 accurate mass Q-TOF MS	alkyl	negative	serum	NaN	NaN
+snyder	IPO_aligned_snyderome_b2_neg	LC	Agilent 6538 accurate mass Q-TOF MS	alkyl	negative	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_3_CS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_0_NS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_2_FS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_1_COPD	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_3_CS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_0_NS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_2_FS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_1_COPD	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_3_CS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_0_NS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_2_FS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_1_COPD	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_3_CS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_0_NS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_2_FS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_1_COPD	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_COPD_FS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_COPD_CS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_COPD_NS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_FS_CS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_FS_NS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_CER_mass_spectrometry_v4_CS_NS	LC	AB SCIEX QTRAP 5500	C18	positive	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_COPD_FS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_COPD_CS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_COPD_NS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_FS_CS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_FS_NS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_EICO_mass_spectrometry_v4_CS_NS	LC	AB SCIEX QTRAP 5500	C18	negative	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_COPD_FS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_COPD_CS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_COPD_NS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_FS_CS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_FS_NS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_SHOT_mass_spectrometry_v4_CS_NS	LC	AB SCIEX QTRAP 5500	chip infusion	both	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_COPD_FS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_COPD_CS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_COPD_NS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_FS_CS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_FS_NS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+MTBLS358	m_TAG_mass_spectrometry_v4_CS_NS	LC	AB SCIEX QTRAP 5500	NA	positive	serum	NaN	NaN
+ST000608	AN000929	LC	Velos Orbitrap Pro	C18	positive	DBS-serum	m	0.033333333333333
+ST000608	AN000930	LC	Velos Orbitrap Pro	C18	negative	DBS-serum	m	0.033333333333333
+ST000608	AN000931	GC	Agilent GC 7890A	5% phenyl-methyl silica	both	DBS-serum	m	0.033333333333333
+MTBLS124	ulsam_author	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
+MTBLS124	ulsam_IPO_reprocessedfirst	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
+MTBLS124	ulsam_IPO_reprocessedsecond	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
+MTBLS124	ulsam_IPO_reprocessedmean	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
+MTBLS124	ulsam_IPO_reprocessedfirst_mean	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
+MTBLS124	ulsam_IPO_reprocessedsecond_mean	LC	Waters Xevo G2 QTof	C8	positive	plasma	s	2
