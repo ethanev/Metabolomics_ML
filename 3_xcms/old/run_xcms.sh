@@ -1,1 +1,0 @@
-Rscript ./extract_features_xcms3.R --fnames '~/data/downloading_data/MTBLS315/data/mzXML.txt' --ppm 28.5 --mode 'positive' --peakMin 18.4 --peakMax 62 --mzdiff 0.0045 --binSizeObi 0.92 --gapInit 0.75 --gapExtend 2.55 --bw 0.88 --minFrac 0.7 --binSizeDensity 0.025 --alignedFile '/home/ubuntu/data/downloading_data/MTBLS315/data/mzXML_test/mzXML_aligned_features.csv'
