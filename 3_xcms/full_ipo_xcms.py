@@ -1,13 +1,19 @@
+#!/usr/bin/env python
+# Author: Ethan D. Evans, 2019 [eevans@mit.edu]
+
+### This program is generally made to work with multiple inputs and not the those from say the longitudinal waste water analysis or the ML + metabolomics analysis
+### Thus this above line can generally be ignored!
+
 # Requirements:
-# 1) the file with path/to/data.[cdf,mzData,mzML,mzXML] be in the directory WITH the data
-# 2) that full_ipo_xcms.py, cdf_to_mzData.R and extract_features_xcms3.R are in the same folder (currently EE_metabolomic_processing)
+# 1) the file with path/to/data.[cdf,mzData,mzML,mzXML] be in the directory WITH the data (ie the 'data_file' in the batch command line)
+# 2) that full_ipo_xcms.py, cdf_to_mzData.R and extract_features_xcms3.R are in the same folder 
 
 # General comment:
 #	probably best to have all data of one type / run in its own directory so that the IPO*.out files don't overwrite each other if running
 #	multiple of this script at once
 # IMPORTANT: if using the cdf to mzData conversion, make sure you use CASE SENSITIVE INPUT 'cdf' is different from 'CDF'
 
-# To run, use command lines like:
+# To run, follow README instructions though you may use command lines like (example is from the ML + metabolomics paper):
 # python full_ipo_xcms.py --data_type 'mzML' --in_path='/home/ubuntu/data/downloading_data/MTBLS315/data/n_mzML' --data_file='n_mzML.txt' --acq_mode='positive' --csv_out='IPO_aligned_MTBLS315_n_mzML.csv' --out_path='/home/ubuntu/data/downloading_data/MTBLS315/data/n_mzML' --log_file='MTBLS315_n_mzML.log' &
 # or as an examples of using prerun IPO files: 
 # python full_ipo_xcms.py --data_type 'mzML' --ipo_files='IPO_35.out IPO_70.out IPO_78.out' --in_path='/home/ubuntu/data/downloading_data/ST000388/raw/Serum_phosphatidylethanolamine_levels/Raw_Data/LC_Data' --data_file='lc_pos_mzML.txt' --acq_mode='positive' --csv_out='IPO_aligned_LC_ST000388.csv' --out_path='/home/ubuntu/data/downloading_data/ST000388/raw/Serum_phosphatidylethanolamine_levels/Raw_Data/LC_Data' --log_file='ST000388_xcms_3IPO_LC.log' &

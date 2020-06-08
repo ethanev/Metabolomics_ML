@@ -1,10 +1,6 @@
 #!/usr/bin/env Rscript
 # Author: Ethan D. Evans, 2018 [eevans@mit.edu]
 
-# to do:
-# write it so that mzData use CAMERA...
-# use multiple files for alignment
-
 library(optparse)
 
 option_list = list(
@@ -26,6 +22,7 @@ sink(f, append=TRUE, type='message')
 library(IPO)
 
 mz <- read.csv(args$fnames, stringsAsFactor=FALSE)$fnames
+# hard code some values
 peakpickingParameters <- getDefaultXcmsSetStartingParams('centWave')
 peakpickingParameters$integrate <- 2
 peakpickingParameters$prefilter <- 3
@@ -35,7 +32,6 @@ peakpickingParameters$verbose.columns <- TRUE
 peakpickingParameters$noise <- 500	
 resultPeakpicking <- optimizeXcmsSet(files = mz[args$whichFile], params = peakpickingParameters, isotopeIdentification=args$isotope, nSlaves = 2, subdir = NULL, plot = FALSE)
 
-# optimizedXcmsSetObject <- resultPeakpicking$best_settings$xset
 # randomly choose 5 (might want to tune) files to run the RetGroup optimization on with the optimized centwave params
 optParams <- resultPeakpicking$best_settings$parameters
 optimizedXcmsSetObject <- calculateXcmsSet(mz[c(sample(1:length(mz),5))],optParams)
